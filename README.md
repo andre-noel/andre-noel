@@ -31,11 +31,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimas publicações
 <!-- BLOG-POST-LIST:START -->
+- [Goodbye, Kevin!](https://developerslife.tech/pt/2023/07/20/goodbye-kevin/)
 - [[Vídeo] Como usar o Github como portfolio &lpar;de verdade!&rpar;](https://developerslife.tech/pt/2023/07/20/video-como-usar-o-github-como-portfolio/)
 - [Valores nulos](https://developerslife.tech/pt/2023/07/18/valores-nulos/)
 - [Produtividade](https://developerslife.tech/pt/2023/07/14/produtividade/)
 - [[Vídeo] Quantas vezes você teve que escrever um algoritmo de ordenação do zero??](https://developerslife.tech/pt/2023/07/13/video-voce-ja-escreveu-um-algoritmo-de-ordenacao/)
-- [Como escrever um BOT para o BlueSky que posta imagens](https://developerslife.tech/pt/2023/07/10/como-escrever-um-bot-para-bluesky/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
