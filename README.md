@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 <img src="eu.png" align="right" height="200px">
 
-Mestre em Ciência da Computação (UEM) e professor especialista na Trybe. É programador e usuário Linux desde 2002, membro oficial da Comunidade Ubuntu. Trabalhou por diversos anos com programação, por isso aproveitou a experiência na área, juntando com o fato de que nunca foi levado muito a sério, e hoje se dedica ao ensino, ao humor e programa para si próprio.
+Mestre em Ciência da Computação (UEM), programador e usuário Linux desde 2002, membro oficial da Comunidade Ubuntu. Trabalhou por diversos anos com programação, por isso aproveitou a experiência na área, juntando com o fato de que nunca foi levado muito a sério, e hoje se dedica ao ensino, ao humor e programa para si próprio.
 
-Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e totalmente viciado em café. É o criador do site Vida de Programador, responsável por manipular os vetores que se transformam em tirinhas. Aproveitando-se de sua inigualável beleza e sua voz macia, começou a se dedicar também a fazer um vídeos para o youtube e podcast. É casado com Raquel, pai do Mateus, da Gabrielle, da Isabelle e da Sofia.
+Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e totalmente viciado em café. É o criador do site Vida de Programador (agora [The Developer's Life](https://developerslife.tech/)), responsável por manipular os vetores que se transformam em tirinhas. Aproveitando-se de sua inigualável beleza e sua voz macia, começou a se dedicar também a fazer um [vídeos](https://youtube.com/ProgramadorREAL) para o youtube e [podcast](https://podcast.developerslife.tech/). É casado com Raquel, pai do Mateus, da Gabrielle, da Isabelle e da Sofia.
+
+### Últimas publicações
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
