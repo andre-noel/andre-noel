@@ -21,6 +21,8 @@ Mestre em Ciência da Computação (UEM), programador e usuário Linux desde 200
 
 Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e totalmente viciado em café. É o criador do site Vida de Programador (agora [The Developer's Life](https://developerslife.tech/)), responsável por manipular os vetores que se transformam em tirinhas. Aproveitando-se de sua inigualável beleza e sua voz macia, começou a se dedicar também a fazer um [vídeos](https://youtube.com/ProgramadorREAL) para o youtube e [podcast](https://podcast.developerslife.tech/). É casado com Raquel, pai do Mateus, da Gabrielle, da Isabelle e da Sofia.
 
+[![Web comic: New branch](https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png)](https://developerslife.tech/en/2022/05/30/new-branch/)
+
 ### Últimas publicações
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
