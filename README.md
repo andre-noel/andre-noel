@@ -37,3 +37,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 - [Como escrever um BOT para o BlueSky que posta imagens](https://developerslife.tech/pt/2023/07/10/como-escrever-um-bot-para-bluesky/)
 - [Threads](https://developerslife.tech/pt/2023/07/07/threads/)
 <!-- BLOG-POST-LIST:END -->
+
+### Últimos vídeos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
