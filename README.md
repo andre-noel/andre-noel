@@ -39,7 +39,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=v103ljx5uy0"><img width="140px" src="https://i.ytimg.com/vi/v103ljx5uy0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=nq5CShSJ9jY"><img width="140px" src="https://i.ytimg.com/vi/nq5CShSJ9jY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=nq5CShSJ9jY">O que procurar em uma revisão de código &lpar;code review&rpar;? | The Developer&#39;s Life Weekend 2022</a><br/>Jul 28, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=v103ljx5uy0"><img width="140px" src="https://i.ytimg.com/vi/v103ljx5uy0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=v103ljx5uy0">Como usar o Github como portfolio &lpar;de verdade!&rpar; | The Developer&#39;s Life Weekend 2022</a><br/>Jul 20, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0By7fsq_xZw"><img width="140px" src="https://i.ytimg.com/vi/0By7fsq_xZw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0By7fsq_xZw">Quantas vezes você teve que escrever um algoritmo de ordenação do zero?? | The Developer&#39;s Life</a><br/>Jul 13, 2023</td></tr></table>
@@ -47,6 +49,4 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=_X2ao-JBkaQ">Desenvolvendo um Bot para BlueSky que Posta Texto com Imagens | The Developer&#39;s Life</a><br/>Jul 10, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=uSs5LcrFN1k"><img width="140px" src="https://i.ytimg.com/vi/uSs5LcrFN1k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uSs5LcrFN1k">LGPD: Como essa Lei se aplica aos desenvolvedores | The Developer&#39;s Life Weekend 2022</a><br/>Jul 6, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-GrNqne5pk4"><img width="140px" src="https://i.ytimg.com/vi/-GrNqne5pk4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-GrNqne5pk4">Uma introdução ao mundo Flutter | The Developer&#39;s Life Weekend 2022</a><br/>Jun 29, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
