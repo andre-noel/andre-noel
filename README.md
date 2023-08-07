@@ -31,11 +31,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimas publicações
 <!-- BLOG-POST-LIST:START -->
+- [Campo numérico](https://developerslife.tech/pt/2023/08/07/campo-numerico/)
 - [Falando em código](https://developerslife.tech/pt/2023/07/31/falando-em-codigo/)
 - [Rebranding](https://developerslife.tech/pt/2023/07/24/rebranding/)
 - [Goodbye, Kevin!](https://developerslife.tech/pt/2023/07/20/goodbye-kevin/)
 - [[Vídeo] Como usar o Github como portfolio &lpar;de verdade!&rpar;](https://developerslife.tech/pt/2023/07/20/video-como-usar-o-github-como-portfolio/)
-- [Valores nulos](https://developerslife.tech/pt/2023/07/18/valores-nulos/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
