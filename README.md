@@ -39,7 +39,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ptyd1_1QaKQ"><img width="140px" src="https://i.ytimg.com/vi/Ptyd1_1QaKQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Z6zJqaDI5-I"><img width="140px" src="https://i.ytimg.com/vi/Z6zJqaDI5-I/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Z6zJqaDI5-I">Desenhando tirinha!!!</a><br/>Aug 14, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Ptyd1_1QaKQ"><img width="140px" src="https://i.ytimg.com/vi/Ptyd1_1QaKQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ptyd1_1QaKQ">Como criar &quot;firewalls cognitivos&quot; para lidar com nossos &quot;hackers cerebrais&quot; | The Developer&#39;s Life</a><br/>Aug 10, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=80xVW7U9TnQ"><img width="140px" src="https://i.ytimg.com/vi/80xVW7U9TnQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=80xVW7U9TnQ">Desenhando tirinha!!!</a><br/>Aug 8, 2023</td></tr></table>
@@ -47,6 +49,4 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=dPyhkwhJ6S8">Startups e Inovacao - Os desafios de trabalhar no olho do furacão | The Developer&#39;s Life Weekend</a><br/>Aug 4, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nq5CShSJ9jY"><img width="140px" src="https://i.ytimg.com/vi/nq5CShSJ9jY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nq5CShSJ9jY">O que procurar em uma revisão de código &lpar;code review&rpar;? | The Developer&#39;s Life Weekend 2022</a><br/>Jul 28, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=v103ljx5uy0"><img width="140px" src="https://i.ytimg.com/vi/v103ljx5uy0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=v103ljx5uy0">Como usar o Github como portfolio &lpar;de verdade!&rpar; | The Developer&#39;s Life Weekend 2022</a><br/>Jul 20, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
