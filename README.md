@@ -40,7 +40,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Z6zJqaDI5-I"><img width="140px" src="https://i.ytimg.com/vi/Z6zJqaDI5-I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Z6zJqaDI5-I">Desenhando tirinha!!!</a><br/>Aug 14, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=Z6zJqaDI5-I">Desenhando tirinha!!!</a><br/>Aug 15, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Ptyd1_1QaKQ"><img width="140px" src="https://i.ytimg.com/vi/Ptyd1_1QaKQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ptyd1_1QaKQ">Como criar &quot;firewalls cognitivos&quot; para lidar com nossos &quot;hackers cerebrais&quot; | The Developer&#39;s Life</a><br/>Aug 10, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=80xVW7U9TnQ"><img width="140px" src="https://i.ytimg.com/vi/80xVW7U9TnQ/mqdefault.jpg"></a></td>
