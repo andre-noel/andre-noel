@@ -31,11 +31,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimas publicações
 <!-- BLOG-POST-LIST:START -->
+- [Sentimento de dono](https://developerslife.tech/pt/2023/08/21/sentimento-de-dono/)
 - [Desconfiado](https://developerslife.tech/pt/2023/08/18/desconfiado/)
 - [Captcha difícil](https://developerslife.tech/pt/2023/08/14/captcha-dificil/)
 - [Foto do Linkedin](https://developerslife.tech/pt/2023/08/09/foto-do-linkedin/)
 - [Campo numérico](https://developerslife.tech/pt/2023/08/07/campo-numerico/)
-- [Falando em código](https://developerslife.tech/pt/2023/07/31/falando-em-codigo/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
