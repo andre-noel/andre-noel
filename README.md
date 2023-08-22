@@ -40,7 +40,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xqtLCWeSDe4"><img width="140px" src="https://i.ytimg.com/vi/xqtLCWeSDe4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xqtLCWeSDe4">Desenhando tirinha!!!</a><br/>Aug 21, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=xqtLCWeSDe4">Desenhando tirinha!!!</a><br/>Aug 22, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Z6zJqaDI5-I"><img width="140px" src="https://i.ytimg.com/vi/Z6zJqaDI5-I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Z6zJqaDI5-I">Desenhando tirinha!!!</a><br/>Aug 15, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Ptyd1_1QaKQ"><img width="140px" src="https://i.ytimg.com/vi/Ptyd1_1QaKQ/mqdefault.jpg"></a></td>
