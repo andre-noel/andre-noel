@@ -2,7 +2,7 @@ name: The Developer's Life Podcast (Anchor)
 on:
   schedule:
     # Runs “At 00:00 on Friday.”
-    - cron: '0 0 * * FRI'
+    - cron: '0 * * * FRI'
   workflow_dispatch:
 
 jobs:
