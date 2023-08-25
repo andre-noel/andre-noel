@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="eu.png" align="right" height="200px">
+<img src="eu.png" align="right" height="300px">
 
 Master's Degree in Computer Science, developer and Linux user since 2002, member of Ubuntu Community. Worked many years programming software, so he uses the expertise and the fact the no one takes him serious to work with comics and humor.
 
