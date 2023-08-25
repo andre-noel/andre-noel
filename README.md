@@ -50,3 +50,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <table><tr><td><a href="https://www.youtube.com/watch?v=80xVW7U9TnQ"><img width="140px" src="https://i.ytimg.com/vi/80xVW7U9TnQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=80xVW7U9TnQ">Desenhando tirinha!!!</a><br/>Aug 8, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
+
+### Últimos episódios no podcast
+<!-- PODCAST-FEED:START -->
+<!-- PODCAST-FEED:END -->

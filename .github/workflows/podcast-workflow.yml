@@ -1,0 +1,26 @@
+name: The Developer's Life Podcast (Anchor)
+on:
+  schedule:
+    # Runs “At 00:00 on Friday.”
+    - cron: '0 0 * * FRI'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-anchor:
+    name: Últimos episódios do meu podcast
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "PODCAST-FEED"
+          feed_list: "https://anchor.fm/s/200871ac/podcast/rss"
+          max_post_count: 1000
+          commit_message: "🔥Update with lastest Developer's Life Podcast feed"
+          committer_username: "🤖TDL-Podcast-Bot"
+          committer_email: "<>"
+          date_format: 'UTC: yyyy-mm-dd'
+          template: "$newline #### - [$title]($url) $newline <details><summary></summary> $description </details> $newline <hr /> $newline"
+          # Regex for remove HTML TAG:    /(<([^>]+)>)/ig
+          item_exec: "post.description = post.description.replace('','')"
+          disable_html_encoding: true
