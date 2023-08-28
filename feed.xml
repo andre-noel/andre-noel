@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The Developer's Life | Vida de Programador</title>
+	<atom:link href="https://developerslife.tech/pt/feed.xml" rel="self" type="application/rss+xml" />
+	<link>https://developerslife.tech/pt/</link>
+	<description>O maior site de tirinhas de humor focado para programadores e profissionais de T.I. baseado em histórias reais enviadas pelos leitores.</description>
+	<lastBuildDate>Mon, 21 Aug 2023 17:46:20 -0300</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://augustocampos.net/</generator>
+		<item>
+		<title><![CDATA[Sentimento de dono]]></title>
+		<link>https://developerslife.tech/pt/2023/08/21/sentimento-de-dono/</link>
+		<pubDate>Mon, 21 Aug 2023 17:46:16 -0300</pubDate>
+		<dc:creator><![CDATA[Andre Noel]]></dc:creator>
+		<description><![CDATA[<div class="tirinha" style="width:100%"><a href="https://developerslife.tech/pt/uploads/2023/08/tirinha2225.png">
+<picture><source srcset="https://developerslife.tech/pt/uploads/2023/08/tirinha2225.webp"><source srcset="https://developerslife.tech/pt/uploads/2023/08/tirinha2225.png"><img src="https://developerslife.tech/pt/uploads/2023/08/tirinha2225.png" alt="tirinha" title="Dono de um burnout" style="margin:0" /></picture></a>
+<div id="embed-code-39599d75d3" class="embed-code"><a class="inclua" title="Inclua essa tirinha em seu site" href="javascript:void()" onclick="jQuery(&#39;#codigo-tirinha-39599d75d3&#39;).slideDown();jQuery(&#39;#embed-code-39599d75d3 textarea&#39;).select()"><img title="" src="https://developerslife.tech/pt/axethemes/dev/images/botao-embed.png" alt="Inclua essa tirinha em seu site" /></a>
+<div id="codigo-tirinha-39599d75d3" class="codigo-tirinha">COLE ESSE C&Oacute;DIGO EM SEU SITE <a href="javascript:void()" onclick="jQuery(this).parent().slideUp()"><img src="https://developerslife.tech/pt/axethemes/dev/images/close.png" alt="x" /></a><br /><textarea readonly="true" onclick="jQuery(this).select()"><a href="https://developerslife.tech/pt/uploads/2023/08/tirinha2225.png"><img src="https://developerslife.tech/pt/uploads/2023/08/tirinha2225.png" alt="" title="Dono de um burnout" /></a><small>Fonte: <a href="https://developerslife.tech/pt/">The Developer&#39;s Life</a></small></textarea></div>
+</div>
+</div>
+<div class="transcription"><small onclick="jQuery(this).parent().find(&#39;p&#39;).slideToggle()">Transcri&ccedil;&atilde;o &darr;</small>
+<p><code>real historia;<br />
+string sender = "rodrigo";</code><br />
+Chefe: Queremos uma pessoa com sentimento de dono, que assuma as responsabilidades e tome a frente das coisas, etc., etc., etc.<br />
+(Uns dias depois...)<br />
+Chefe: Não gostei desse nome de variável. Coloca assim ...<br />
+Dev: Ok...<br />
+Chefe: Muda essa tabela do banco pra ...<br />
+Dev: Ok...<br />
+Chefe: Acho que o botão de "ok" deveria ficar na esquerda e não na direita...<br />
+Dev: PLOFT!<br />
+--<br />
+Camiseta: Dono de um burnout</p>
+</div>
+]]></description>
+		<content:encoded><![CDATA[<div class="tirinha" style="width:100%"><a href="https://developerslife.tech/pt/uploads/2023/08/tirinha2225.png">
+<picture><source srcset="https://developerslife.tech/pt/uploads/2023/08/tirinha2225.webp"><source srcset="https://developerslife.tech/pt/uploads/2023/08/tirinha2225.png"><img src="https://developerslife.tech/pt/uploads/2023/08/tirinha2225.png" alt="tirinha" title="Dono de um burnout" style="margin:0" /></picture></a>
+<div id="embed-code-39599d75d3" class="embed-code"><a class="inclua" title="Inclua essa tirinha em seu site" href="javascript:void()" onclick="jQuery(&#39;#codigo-tirinha-39599d75d3&#39;).slideDown();jQuery(&#39;#embed-code-39599d75d3 textarea&#39;).select()"><img title="" src="https://developerslife.tech/pt/axethemes/dev/images/botao-embed.png" alt="Inclua essa tirinha em seu site" /></a>
+<div id="codigo-tirinha-39599d75d3" class="codigo-tirinha">COLE ESSE C&Oacute;DIGO EM SEU SITE <a href="javascript:void()" onclick="jQuery(this).parent().slideUp()"><img src="https://developerslife.tech/pt/axethemes/dev/images/close.png" alt="x" /></a><br /><textarea readonly="true" onclick="jQuery(this).select()"><a href="https://developerslife.tech/pt/uploads/2023/08/tirinha2225.png"><img src="https://developerslife.tech/pt/uploads/2023/08/tirinha2225.png" alt="" title="Dono de um burnout" /></a><small>Fonte: <a href="https://developerslife.tech/pt/">The Developer&#39;s Life</a></small></textarea></div>
+</div>
+</div>
+<div class="transcription"><small onclick="jQuery(this).parent().find(&#39;p&#39;).slideToggle()">Transcri&ccedil;&atilde;o &darr;</small>
+<p><code>real historia;<br />
+string sender = "rodrigo";</code><br />
+Chefe: Queremos uma pessoa com sentimento de dono, que assuma as responsabilidades e tome a frente das coisas, etc., etc., etc.<br />
+(Uns dias depois...)<br />
+Chefe: Não gostei desse nome de variável. Coloca assim ...<br />
+Dev: Ok...<br />
+Chefe: Muda essa tabela do banco pra ...<br />
+Dev: Ok...<br />
+Chefe: Acho que o botão de "ok" deveria ficar na esquerda e não na direita...<br />
+Dev: PLOFT!<br />
+--<br />
+Camiseta: Dono de um burnout</p>
+</div>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "<a href="https://developerslife.tech/pt/2023/08/21/sentimento-de-dono/">Sentimento de dono</a>" foi originalmente publicado no site <a href="https://developerslife.tech/pt/">The Developer's Life | Vida de Programador</a>, de <a href="http://andrenoel.com.br/">Andre Noel</a>.</i></p>]]></content:encoded>					
+		</item>
+		<item>
+		<title><![CDATA[Desconfiado]]></title>
+		<link>https://developerslife.tech/pt/2023/08/18/desconfiado/</link>
+		<pubDate>Fri, 18 Aug 2023 11:12:27 -0300</pubDate>
+		<dc:creator><![CDATA[Andre Noel]]></dc:creator>
+		<description><![CDATA[<div class="tirinha" style="width:100%"><a href="https://developerslife.tech/pt/uploads/2023/08/tirinha2224.png">
+<picture><source srcset="https://developerslife.tech/pt/uploads/2023/08/tirinha2224.webp"><source srcset="https://developerslife.tech/pt/uploads/2023/08/tirinha2224.png"><img src="https://developerslife.tech/pt/uploads/2023/08/tirinha2224.png" alt="tirinha" title="Leia o erro!" style="margin:0" /></picture></a>
+<div id="embed-code-c23c0581ef" class="embed-code"><a class="inclua" title="Inclua essa tirinha em seu site" href="javascript:void()" onclick="jQuery(&#39;#codigo-tirinha-c23c0581ef&#39;).slideDown();jQuery(&#39;#embed-code-c23c0581ef textarea&#39;).select()"><img title="" src="https://developerslife.tech/pt/axethemes/dev/images/botao-embed.png" alt="Inclua essa tirinha em seu site" /></a>
+<div id="codigo-tirinha-c23c0581ef" class="codigo-tirinha">COLE ESSE C&Oacute;DIGO EM SEU SITE <a href="javascript:void()" onclick="jQuery(this).parent().slideUp()"><img src="https://developerslife.tech/pt/axethemes/dev/images/close.png" alt="x" /></a><br /><textarea readonly="true" onclick="jQuery(this).select()"><a href="https://developerslife.tech/pt/uploads/2023/08/tirinha2224.png"><img src="https://developerslife.tech/pt/uploads/2023/08/tirinha2224.png" alt="" title="Leia o erro!" /></a><small>Fonte: <a href="https://developerslife.tech/pt/">The Developer&#39;s Life</a></small></textarea></div>
+</div>
+</div>
+<div class="transcription"><small onclick="jQuery(this).parent().find(&#39;p&#39;).slideToggle()">Transcri&ccedil;&atilde;o &darr;</small>
+<p><code>real historia;<br />
+string sender = "Bruno";</code><br />
+Usuário: Esse app que você fez não funciona...<br />
+Dev: Deixa eu ver... Você tá sem conexão...<br />
+Usuário: Ninguém me avisou isso...<br />
+Dev: Tem uma mensagem na tela avisando...<br />
+Usuário: Ah, achei que essa mensagem tivesse errada...<br />
+Dev: PLOFT!<br />
+--<br />
+Camiseta: Leia o erro!</p>
+</div>
+]]></description>
+		<content:encoded><![CDATA[<div class="tirinha" style="width:100%"><a href="https://developerslife.tech/pt/uploads/2023/08/tirinha2224.png">
+<picture><source srcset="https://developerslife.tech/pt/uploads/2023/08/tirinha2224.webp"><source srcset="https://developerslife.tech/pt/uploads/2023/08/tirinha2224.png"><img src="https://developerslife.tech/pt/uploads/2023/08/tirinha2224.png" alt="tirinha" title="Leia o erro!" style="margin:0" /></picture></a>
+<div id="embed-code-c23c0581ef" class="embed-code"><a class="inclua" title="Inclua essa tirinha em seu site" href="javascript:void()" onclick="jQuery(&#39;#codigo-tirinha-c23c0581ef&#39;).slideDown();jQuery(&#39;#embed-code-c23c0581ef textarea&#39;).select()"><img title="" src="https://developerslife.tech/pt/axethemes/dev/images/botao-embed.png" alt="Inclua essa tirinha em seu site" /></a>
+<div id="codigo-tirinha-c23c0581ef" class="codigo-tirinha">COLE ESSE C&Oacute;DIGO EM SEU SITE <a href="javascript:void()" onclick="jQuery(this).parent().slideUp()"><img src="https://developerslife.tech/pt/axethemes/dev/images/close.png" alt="x" /></a><br /><textarea readonly="true" onclick="jQuery(this).select()"><a href="https://developerslife.tech/pt/uploads/2023/08/tirinha2224.png"><img src="https://developerslife.tech/pt/uploads/2023/08/tirinha2224.png" alt="" title="Leia o erro!" /></a><small>Fonte: <a href="https://developerslife.tech/pt/">The Developer&#39;s Life</a></small></textarea></div>
+</div>
+</div>
+<div class="transcription"><small onclick="jQuery(this).parent().find(&#39;p&#39;).slideToggle()">Transcri&ccedil;&atilde;o &darr;</small>
+<p><code>real historia;<br />
+string sender = "Bruno";</code><br />
+Usuário: Esse app que você fez não funciona...<br />
+Dev: Deixa eu ver... Você tá sem conexão...<br />
+Usuário: Ninguém me avisou isso...<br />
+Dev: Tem uma mensagem na tela avisando...<br />
+Usuário: Ah, achei que essa mensagem tivesse errada...<br />
+Dev: PLOFT!<br />
+--<br />
+Camiseta: Leia o erro!</p>
+</div>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "<a href="https://developerslife.tech/pt/2023/08/18/desconfiado/">Desconfiado</a>" foi originalmente publicado no site <a href="https://developerslife.tech/pt/">The Developer's Life | Vida de Programador</a>, de <a href="http://andrenoel.com.br/">Andre Noel</a>.</i></p>]]></content:encoded>					
+		</item>
+		<item>
+		<title><![CDATA[Captcha difícil]]></title>
+		<link>https://developerslife.tech/pt/2023/08/14/captcha-dificil/</link>
+		<pubDate>Mon, 14 Aug 2023 17:04:18 -0300</pubDate>
+		<dc:creator><![CDATA[Andre Noel]]></dc:creator>
+		<description><![CDATA[<div class="tirinha" style="width:100%"><a href="https://developerslife.tech/pt/uploads/2023/08/tirinha2223.png">
+<picture><source srcset="https://developerslife.tech/pt/uploads/2023/08/tirinha2223.webp"><source srcset="https://developerslife.tech/pt/uploads/2023/08/tirinha2223.png"><img src="https://developerslife.tech/pt/uploads/2023/08/tirinha2223.png" alt="tirinha" title="" style="margin:0" /></picture></a>
+<div id="embed-code-90e76f0149" class="embed-code"><a class="inclua" title="Inclua essa tirinha em seu site" href="javascript:void()" onclick="jQuery(&#39;#codigo-tirinha-90e76f0149&#39;).slideDown();jQuery(&#39;#embed-code-90e76f0149 textarea&#39;).select()"><img title="" src="https://developerslife.tech/pt/axethemes/dev/images/botao-embed.png" alt="Inclua essa tirinha em seu site" /></a>
+<div id="codigo-tirinha-90e76f0149" class="codigo-tirinha">COLE ESSE C&Oacute;DIGO EM SEU SITE <a href="javascript:void()" onclick="jQuery(this).parent().slideUp()"><img src="https://developerslife.tech/pt/axethemes/dev/images/close.png" alt="x" /></a><br /><textarea readonly="true" onclick="jQuery(this).select()"><a href="https://developerslife.tech/pt/uploads/2023/08/tirinha2223.png"><img src="https://developerslife.tech/pt/uploads/2023/08/tirinha2223.png" alt="" title="" /></a><small>Fonte: <a href="https://developerslife.tech/pt/">The Developer&#39;s Life</a></small></textarea></div>
+</div>
+</div>
+<div class="transcription"><small onclick="jQuery(this).parent().find(&#39;p&#39;).slideToggle()">Transcri&ccedil;&atilde;o &darr;</small>
+<p><code>real historia;<br />
+string sender = "anônimo";</code><br />
+Chefe: Após a atualização de segurança, algumas pessoas não estão conseguindo acessar. Fica pedindo para selecionar as imagens de parquímetro e daí não estão conseguindo...<br />
+Programador: É, tem imagem que fica difícil mesmo de enxergar, mas daí é só clicar no botão "recarregar" até aparecerem imagens melhores<br />
+Chefe: Não é esse o problema. O problema é que as pessoas não sabem o que é um parquímetro!<br />
+Programador: PLOFT!<br />
+--<br />
+Camiseta: Desculpe, skynet, não fui eu que botei o captcha</p>
+</div>
+]]></description>
+		<content:encoded><![CDATA[<div class="tirinha" style="width:100%"><a href="https://developerslife.tech/pt/uploads/2023/08/tirinha2223.png">
+<picture><source srcset="https://developerslife.tech/pt/uploads/2023/08/tirinha2223.webp"><source srcset="https://developerslife.tech/pt/uploads/2023/08/tirinha2223.png"><img src="https://developerslife.tech/pt/uploads/2023/08/tirinha2223.png" alt="tirinha" title="" style="margin:0" /></picture></a>
+<div id="embed-code-90e76f0149" class="embed-code"><a class="inclua" title="Inclua essa tirinha em seu site" href="javascript:void()" onclick="jQuery(&#39;#codigo-tirinha-90e76f0149&#39;).slideDown();jQuery(&#39;#embed-code-90e76f0149 textarea&#39;).select()"><img title="" src="https://developerslife.tech/pt/axethemes/dev/images/botao-embed.png" alt="Inclua essa tirinha em seu site" /></a>
+<div id="codigo-tirinha-90e76f0149" class="codigo-tirinha">COLE ESSE C&Oacute;DIGO EM SEU SITE <a href="javascript:void()" onclick="jQuery(this).parent().slideUp()"><img src="https://developerslife.tech/pt/axethemes/dev/images/close.png" alt="x" /></a><br /><textarea readonly="true" onclick="jQuery(this).select()"><a href="https://developerslife.tech/pt/uploads/2023/08/tirinha2223.png"><img src="https://developerslife.tech/pt/uploads/2023/08/tirinha2223.png" alt="" title="" /></a><small>Fonte: <a href="https://developerslife.tech/pt/">The Developer&#39;s Life</a></small></textarea></div>
+</div>
+</div>
+<div class="transcription"><small onclick="jQuery(this).parent().find(&#39;p&#39;).slideToggle()">Transcri&ccedil;&atilde;o &darr;</small>
+<p><code>real historia;<br />
+string sender = "anônimo";</code><br />
+Chefe: Após a atualização de segurança, algumas pessoas não estão conseguindo acessar. Fica pedindo para selecionar as imagens de parquímetro e daí não estão conseguindo...<br />
+Programador: É, tem imagem que fica difícil mesmo de enxergar, mas daí é só clicar no botão "recarregar" até aparecerem imagens melhores<br />
+Chefe: Não é esse o problema. O problema é que as pessoas não sabem o que é um parquímetro!<br />
+Programador: PLOFT!<br />
+--<br />
+Camiseta: Desculpe, skynet, não fui eu que botei o captcha</p>
+</div>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "<a href="https://developerslife.tech/pt/2023/08/14/captcha-dificil/">Captcha difícil</a>" foi originalmente publicado no site <a href="https://developerslife.tech/pt/">The Developer's Life | Vida de Programador</a>, de <a href="http://andrenoel.com.br/">Andre Noel</a>.</i></p>]]></content:encoded>					
+		</item>
+		<item>
+		<title><![CDATA[Foto do Linkedin]]></title>
+		<link>https://developerslife.tech/pt/2023/08/09/foto-do-linkedin/</link>
+		<pubDate>Wed, 09 Aug 2023 11:04:20 -0300</pubDate>
+		<dc:creator><![CDATA[Andre Noel]]></dc:creator>
+		<description><![CDATA[<div class="tirinha" style="width:100%"><a href="https://developerslife.tech/pt/uploads/2023/08/tirinha2222.png">
+<picture><source srcset="https://developerslife.tech/pt/uploads/2023/08/tirinha2222.webp"><source srcset="https://developerslife.tech/pt/uploads/2023/08/tirinha2222.png"><img src="https://developerslife.tech/pt/uploads/2023/08/tirinha2222.png" alt="tirinha" title="" style="margin:0" /></picture></a>
+<div id="embed-code-cc09f44f76" class="embed-code"><a class="inclua" title="Inclua essa tirinha em seu site" href="javascript:void()" onclick="jQuery(&#39;#codigo-tirinha-cc09f44f76&#39;).slideDown();jQuery(&#39;#embed-code-cc09f44f76 textarea&#39;).select()"><img title="" src="https://developerslife.tech/pt/axethemes/dev/images/botao-embed.png" alt="Inclua essa tirinha em seu site" /></a>
+<div id="codigo-tirinha-cc09f44f76" class="codigo-tirinha">COLE ESSE C&Oacute;DIGO EM SEU SITE <a href="javascript:void()" onclick="jQuery(this).parent().slideUp()"><img src="https://developerslife.tech/pt/axethemes/dev/images/close.png" alt="x" /></a><br /><textarea readonly="true" onclick="jQuery(this).select()"><a href="https://developerslife.tech/pt/uploads/2023/08/tirinha2222.png"><img src="https://developerslife.tech/pt/uploads/2023/08/tirinha2222.png" alt="" title="" /></a><small>Fonte: <a href="https://developerslife.tech/pt/">The Developer&#39;s Life</a></small></textarea></div>
+</div>
+</div>
+<div class="transcription"><small onclick="jQuery(this).parent().find(&#39;p&#39;).slideToggle()">Transcri&ccedil;&atilde;o &darr;</small>
+<p>(Entrevista de emprego)<br />
+Entrevistadora: Olha, seu currículo é muito bom, você demonstrou boa capacidade técnica, mas, infelizmente, essa foto de perfil do Linkedin segurando uma cerveja depõe contra você. A gente não vai poder lhe contratar.<br />
+Programador: Ah, não é cerveja. É um café!<br />
+(Entrevistadora para e olha bem a foto)<br />
+Entrevistadora: Ótimo! É isso o que procuramos no perfil para Dev! Café demonstra profissionalismo, dedicação, foco, compromisso com as entregas... Parabéns, a vaga é sua!<br />
+(Programador sorrindo)<br />
+--<br />
+Camiseta: Coffee in, code out</p>
+</div>
+]]></description>
+		<content:encoded><![CDATA[<div class="tirinha" style="width:100%"><a href="https://developerslife.tech/pt/uploads/2023/08/tirinha2222.png">
+<picture><source srcset="https://developerslife.tech/pt/uploads/2023/08/tirinha2222.webp"><source srcset="https://developerslife.tech/pt/uploads/2023/08/tirinha2222.png"><img src="https://developerslife.tech/pt/uploads/2023/08/tirinha2222.png" alt="tirinha" title="" style="margin:0" /></picture></a>
+<div id="embed-code-cc09f44f76" class="embed-code"><a class="inclua" title="Inclua essa tirinha em seu site" href="javascript:void()" onclick="jQuery(&#39;#codigo-tirinha-cc09f44f76&#39;).slideDown();jQuery(&#39;#embed-code-cc09f44f76 textarea&#39;).select()"><img title="" src="https://developerslife.tech/pt/axethemes/dev/images/botao-embed.png" alt="Inclua essa tirinha em seu site" /></a>
+<div id="codigo-tirinha-cc09f44f76" class="codigo-tirinha">COLE ESSE C&Oacute;DIGO EM SEU SITE <a href="javascript:void()" onclick="jQuery(this).parent().slideUp()"><img src="https://developerslife.tech/pt/axethemes/dev/images/close.png" alt="x" /></a><br /><textarea readonly="true" onclick="jQuery(this).select()"><a href="https://developerslife.tech/pt/uploads/2023/08/tirinha2222.png"><img src="https://developerslife.tech/pt/uploads/2023/08/tirinha2222.png" alt="" title="" /></a><small>Fonte: <a href="https://developerslife.tech/pt/">The Developer&#39;s Life</a></small></textarea></div>
+</div>
+</div>
+<div class="transcription"><small onclick="jQuery(this).parent().find(&#39;p&#39;).slideToggle()">Transcri&ccedil;&atilde;o &darr;</small>
+<p>(Entrevista de emprego)<br />
+Entrevistadora: Olha, seu currículo é muito bom, você demonstrou boa capacidade técnica, mas, infelizmente, essa foto de perfil do Linkedin segurando uma cerveja depõe contra você. A gente não vai poder lhe contratar.<br />
+Programador: Ah, não é cerveja. É um café!<br />
+(Entrevistadora para e olha bem a foto)<br />
+Entrevistadora: Ótimo! É isso o que procuramos no perfil para Dev! Café demonstra profissionalismo, dedicação, foco, compromisso com as entregas... Parabéns, a vaga é sua!<br />
+(Programador sorrindo)<br />
+--<br />
+Camiseta: Coffee in, code out</p>
+</div>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "<a href="https://developerslife.tech/pt/2023/08/09/foto-do-linkedin/">Foto do Linkedin</a>" foi originalmente publicado no site <a href="https://developerslife.tech/pt/">The Developer's Life | Vida de Programador</a>, de <a href="http://andrenoel.com.br/">Andre Noel</a>.</i></p>]]></content:encoded>					
+		</item>
+		<item>
+		<title><![CDATA[Campo numérico]]></title>
+		<link>https://developerslife.tech/pt/2023/08/07/campo-numerico/</link>
+		<pubDate>Mon, 07 Aug 2023 16:57:59 -0300</pubDate>
+		<dc:creator><![CDATA[Andre Noel]]></dc:creator>
+		<description><![CDATA[<div class="tirinha" style="width:100%"><a href="https://developerslife.tech/pt/uploads/2023/08/tirinha2221.png">
+<picture><source srcset="https://developerslife.tech/pt/uploads/2023/08/tirinha2221.webp"><source srcset="https://developerslife.tech/pt/uploads/2023/08/tirinha2221.png"><img src="https://developerslife.tech/pt/uploads/2023/08/tirinha2221.png" alt="tirinha" title="NaN" style="margin:0" /></picture></a>
+<div id="embed-code-1d03148272" class="embed-code"><a class="inclua" title="Inclua essa tirinha em seu site" href="javascript:void()" onclick="jQuery(&#39;#codigo-tirinha-1d03148272&#39;).slideDown();jQuery(&#39;#embed-code-1d03148272 textarea&#39;).select()"><img title="" src="https://developerslife.tech/pt/axethemes/dev/images/botao-embed.png" alt="Inclua essa tirinha em seu site" /></a>
+<div id="codigo-tirinha-1d03148272" class="codigo-tirinha">COLE ESSE C&Oacute;DIGO EM SEU SITE <a href="javascript:void()" onclick="jQuery(this).parent().slideUp()"><img src="https://developerslife.tech/pt/axethemes/dev/images/close.png" alt="x" /></a><br /><textarea readonly="true" onclick="jQuery(this).select()"><a href="https://developerslife.tech/pt/uploads/2023/08/tirinha2221.png"><img src="https://developerslife.tech/pt/uploads/2023/08/tirinha2221.png" alt="" title="NaN" /></a><small>Fonte: <a href="https://developerslife.tech/pt/">The Developer&#39;s Life</a></small></textarea></div>
+</div>
+</div>
+<div class="transcription"><small onclick="jQuery(this).parent().find(&#39;p&#39;).slideToggle()">Transcri&ccedil;&atilde;o &darr;</small>
+<p><code>real historia;<br />
+string sender = "Robsão";</code><br />
+Colega: Olhaí o que te falei: O campo não aceita letras, só números!<br />
+Programador: É... Isso porque é um campo numérico, é pra ser assim mesmo<br />
+(Após vários minutos explicando a diferença entre caracteres numéricos e alfanuméricos...)<br />
+Programador: Entendeu?<br />
+Colega: Hmmm... Sim, mas...<br />
+Colega: Então, por que o campo de texto aceita números?<br />
+Programador: PLOFT!<br />
+--<br />
+Camiseta: NaN</p>
+</div>
+]]></description>
+		<content:encoded><![CDATA[<div class="tirinha" style="width:100%"><a href="https://developerslife.tech/pt/uploads/2023/08/tirinha2221.png">
+<picture><source srcset="https://developerslife.tech/pt/uploads/2023/08/tirinha2221.webp"><source srcset="https://developerslife.tech/pt/uploads/2023/08/tirinha2221.png"><img src="https://developerslife.tech/pt/uploads/2023/08/tirinha2221.png" alt="tirinha" title="NaN" style="margin:0" /></picture></a>
+<div id="embed-code-1d03148272" class="embed-code"><a class="inclua" title="Inclua essa tirinha em seu site" href="javascript:void()" onclick="jQuery(&#39;#codigo-tirinha-1d03148272&#39;).slideDown();jQuery(&#39;#embed-code-1d03148272 textarea&#39;).select()"><img title="" src="https://developerslife.tech/pt/axethemes/dev/images/botao-embed.png" alt="Inclua essa tirinha em seu site" /></a>
+<div id="codigo-tirinha-1d03148272" class="codigo-tirinha">COLE ESSE C&Oacute;DIGO EM SEU SITE <a href="javascript:void()" onclick="jQuery(this).parent().slideUp()"><img src="https://developerslife.tech/pt/axethemes/dev/images/close.png" alt="x" /></a><br /><textarea readonly="true" onclick="jQuery(this).select()"><a href="https://developerslife.tech/pt/uploads/2023/08/tirinha2221.png"><img src="https://developerslife.tech/pt/uploads/2023/08/tirinha2221.png" alt="" title="NaN" /></a><small>Fonte: <a href="https://developerslife.tech/pt/">The Developer&#39;s Life</a></small></textarea></div>
+</div>
+</div>
+<div class="transcription"><small onclick="jQuery(this).parent().find(&#39;p&#39;).slideToggle()">Transcri&ccedil;&atilde;o &darr;</small>
+<p><code>real historia;<br />
+string sender = "Robsão";</code><br />
+Colega: Olhaí o que te falei: O campo não aceita letras, só números!<br />
+Programador: É... Isso porque é um campo numérico, é pra ser assim mesmo<br />
+(Após vários minutos explicando a diferença entre caracteres numéricos e alfanuméricos...)<br />
+Programador: Entendeu?<br />
+Colega: Hmmm... Sim, mas...<br />
+Colega: Então, por que o campo de texto aceita números?<br />
+Programador: PLOFT!<br />
+--<br />
+Camiseta: NaN</p>
+</div>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "<a href="https://developerslife.tech/pt/2023/08/07/campo-numerico/">Campo numérico</a>" foi originalmente publicado no site <a href="https://developerslife.tech/pt/">The Developer's Life | Vida de Programador</a>, de <a href="http://andrenoel.com.br/">Andre Noel</a>.</i></p>]]></content:encoded>					
+		</item>
+		<item>
+		<title><![CDATA[Falando em código]]></title>
+		<link>https://developerslife.tech/pt/2023/07/31/falando-em-codigo/</link>
+		<pubDate>Mon, 31 Jul 2023 17:04:32 -0300</pubDate>
+		<dc:creator><![CDATA[Andre Noel]]></dc:creator>
+		<description><![CDATA[<div class="tirinha" style="width:100%"><a href="https://developerslife.tech/pt/uploads/2023/07/tirinha2220.png">
+<picture><source srcset="https://developerslife.tech/pt/uploads/2023/07/tirinha2220.webp"><source srcset="https://developerslife.tech/pt/uploads/2023/07/tirinha2220.png"><img src="https://developerslife.tech/pt/uploads/2023/07/tirinha2220.png" alt="tirinha" title="Cada um no seu quadrado" style="margin:0" /></picture></a>
+<div id="embed-code-fdcca5aa93" class="embed-code"><a class="inclua" title="Inclua essa tirinha em seu site" href="javascript:void()" onclick="jQuery(&#39;#codigo-tirinha-fdcca5aa93&#39;).slideDown();jQuery(&#39;#embed-code-fdcca5aa93 textarea&#39;).select()"><img title="" src="https://developerslife.tech/pt/axethemes/dev/images/botao-embed.png" alt="Inclua essa tirinha em seu site" /></a>
+<div id="codigo-tirinha-fdcca5aa93" class="codigo-tirinha">COLE ESSE C&Oacute;DIGO EM SEU SITE <a href="javascript:void()" onclick="jQuery(this).parent().slideUp()"><img src="https://developerslife.tech/pt/axethemes/dev/images/close.png" alt="x" /></a><br /><textarea readonly="true" onclick="jQuery(this).select()"><a href="https://developerslife.tech/pt/uploads/2023/07/tirinha2220.png"><img src="https://developerslife.tech/pt/uploads/2023/07/tirinha2220.png" alt="" title="Cada um no seu quadrado" /></a><small>Fonte: <a href="https://developerslife.tech/pt/">The Developer&#39;s Life</a></small></textarea></div>
+</div>
+</div>
+<div class="transcription"><small onclick="jQuery(this).parent().find(&#39;p&#39;).slideToggle()">Transcri&ccedil;&atilde;o &darr;</small>
+<p><code>real historia;<br />
+string sender = "DEV Anonimo e cansado";</code><br />
+(Chefe passando pela sala de desenvolvimento e não entendendo nada da conversa)<br />
+(Chefe da reunião não entendendo nada que devs falam)<br />
+Chefe: Vocês só ficam falando em código! Já que todo mundo só fala em código eu vou falar também!! Depois eu quero que vocês acessem o servidor gitlab<br />
+Programador: AWS...<br />
+Chefe: E subam o deploy no sprint<br />
+Programador: Docker...<br />
+--<br />
+Camiseta: Cada um no seu quadrado</p>
+</div>
+]]></description>
+		<content:encoded><![CDATA[<div class="tirinha" style="width:100%"><a href="https://developerslife.tech/pt/uploads/2023/07/tirinha2220.png">
+<picture><source srcset="https://developerslife.tech/pt/uploads/2023/07/tirinha2220.webp"><source srcset="https://developerslife.tech/pt/uploads/2023/07/tirinha2220.png"><img src="https://developerslife.tech/pt/uploads/2023/07/tirinha2220.png" alt="tirinha" title="Cada um no seu quadrado" style="margin:0" /></picture></a>
+<div id="embed-code-fdcca5aa93" class="embed-code"><a class="inclua" title="Inclua essa tirinha em seu site" href="javascript:void()" onclick="jQuery(&#39;#codigo-tirinha-fdcca5aa93&#39;).slideDown();jQuery(&#39;#embed-code-fdcca5aa93 textarea&#39;).select()"><img title="" src="https://developerslife.tech/pt/axethemes/dev/images/botao-embed.png" alt="Inclua essa tirinha em seu site" /></a>
+<div id="codigo-tirinha-fdcca5aa93" class="codigo-tirinha">COLE ESSE C&Oacute;DIGO EM SEU SITE <a href="javascript:void()" onclick="jQuery(this).parent().slideUp()"><img src="https://developerslife.tech/pt/axethemes/dev/images/close.png" alt="x" /></a><br /><textarea readonly="true" onclick="jQuery(this).select()"><a href="https://developerslife.tech/pt/uploads/2023/07/tirinha2220.png"><img src="https://developerslife.tech/pt/uploads/2023/07/tirinha2220.png" alt="" title="Cada um no seu quadrado" /></a><small>Fonte: <a href="https://developerslife.tech/pt/">The Developer&#39;s Life</a></small></textarea></div>
+</div>
+</div>
+<div class="transcription"><small onclick="jQuery(this).parent().find(&#39;p&#39;).slideToggle()">Transcri&ccedil;&atilde;o &darr;</small>
+<p><code>real historia;<br />
+string sender = "DEV Anonimo e cansado";</code><br />
+(Chefe passando pela sala de desenvolvimento e não entendendo nada da conversa)<br />
+(Chefe da reunião não entendendo nada que devs falam)<br />
+Chefe: Vocês só ficam falando em código! Já que todo mundo só fala em código eu vou falar também!! Depois eu quero que vocês acessem o servidor gitlab<br />
+Programador: AWS...<br />
+Chefe: E subam o deploy no sprint<br />
+Programador: Docker...<br />
+--<br />
+Camiseta: Cada um no seu quadrado</p>
+</div>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "<a href="https://developerslife.tech/pt/2023/07/31/falando-em-codigo/">Falando em código</a>" foi originalmente publicado no site <a href="https://developerslife.tech/pt/">The Developer's Life | Vida de Programador</a>, de <a href="http://andrenoel.com.br/">Andre Noel</a>.</i></p>]]></content:encoded>					
+		</item>
+		<item>
+		<title><![CDATA[Rebranding]]></title>
+		<link>https://developerslife.tech/pt/2023/07/24/rebranding/</link>
+		<pubDate>Mon, 24 Jul 2023 10:20:04 -0300</pubDate>
+		<dc:creator><![CDATA[Andre Noel]]></dc:creator>
+		<description><![CDATA[<div class="tirinha" style="width:100%"><a href="https://developerslife.tech/pt/uploads/2023/07/tirinha2219.png">
+<picture><source srcset="https://developerslife.tech/pt/uploads/2023/07/tirinha2219.webp"><source srcset="https://developerslife.tech/pt/uploads/2023/07/tirinha2219.png"><img src="https://developerslife.tech/pt/uploads/2023/07/tirinha2219.png" alt="tirinha" title="Piu!" style="margin:0" /></picture></a>
+<div id="embed-code-0cc0784a36" class="embed-code"><a class="inclua" title="Inclua essa tirinha em seu site" href="javascript:void()" onclick="jQuery(&#39;#codigo-tirinha-0cc0784a36&#39;).slideDown();jQuery(&#39;#embed-code-0cc0784a36 textarea&#39;).select()"><img title="" src="https://developerslife.tech/pt/axethemes/dev/images/botao-embed.png" alt="Inclua essa tirinha em seu site" /></a>
+<div id="codigo-tirinha-0cc0784a36" class="codigo-tirinha">COLE ESSE C&Oacute;DIGO EM SEU SITE <a href="javascript:void()" onclick="jQuery(this).parent().slideUp()"><img src="https://developerslife.tech/pt/axethemes/dev/images/close.png" alt="x" /></a><br /><textarea readonly="true" onclick="jQuery(this).select()"><a href="https://developerslife.tech/pt/uploads/2023/07/tirinha2219.png"><img src="https://developerslife.tech/pt/uploads/2023/07/tirinha2219.png" alt="" title="Piu!" /></a><small>Fonte: <a href="https://developerslife.tech/pt/">The Developer&#39;s Life</a></small></textarea></div>
+</div>
+</div>
+<div class="transcription"><small onclick="jQuery(this).parent().find(&#39;p&#39;).slideToggle()">Transcri&ccedil;&atilde;o &darr;</small>
+<p>(No escritório de uma rede social fictícia)<br />
+Chefe: Desde que eu comprei essa rede, já comecei a cobrar mensalidade para quem quer aparecer mais, mudei as regras várias vezes, favoreci discursos de ódio e a rede continua firme e forte...<br />
+Programador: É porque a rede tem um nome e uma marca já bem estabelecida...<br />
+Chefe: Ótimo! Vamos mudar isso também!<br />
+Programador, Programadora e P.A.: PLOFT!<br />
+(Passarinho jogado pela janela)<br />
+--<br />
+Camiseta: Piu!</p>
+</div>
+]]></description>
+		<content:encoded><![CDATA[<div class="tirinha" style="width:100%"><a href="https://developerslife.tech/pt/uploads/2023/07/tirinha2219.png">
+<picture><source srcset="https://developerslife.tech/pt/uploads/2023/07/tirinha2219.webp"><source srcset="https://developerslife.tech/pt/uploads/2023/07/tirinha2219.png"><img src="https://developerslife.tech/pt/uploads/2023/07/tirinha2219.png" alt="tirinha" title="Piu!" style="margin:0" /></picture></a>
+<div id="embed-code-0cc0784a36" class="embed-code"><a class="inclua" title="Inclua essa tirinha em seu site" href="javascript:void()" onclick="jQuery(&#39;#codigo-tirinha-0cc0784a36&#39;).slideDown();jQuery(&#39;#embed-code-0cc0784a36 textarea&#39;).select()"><img title="" src="https://developerslife.tech/pt/axethemes/dev/images/botao-embed.png" alt="Inclua essa tirinha em seu site" /></a>
+<div id="codigo-tirinha-0cc0784a36" class="codigo-tirinha">COLE ESSE C&Oacute;DIGO EM SEU SITE <a href="javascript:void()" onclick="jQuery(this).parent().slideUp()"><img src="https://developerslife.tech/pt/axethemes/dev/images/close.png" alt="x" /></a><br /><textarea readonly="true" onclick="jQuery(this).select()"><a href="https://developerslife.tech/pt/uploads/2023/07/tirinha2219.png"><img src="https://developerslife.tech/pt/uploads/2023/07/tirinha2219.png" alt="" title="Piu!" /></a><small>Fonte: <a href="https://developerslife.tech/pt/">The Developer&#39;s Life</a></small></textarea></div>
+</div>
+</div>
+<div class="transcription"><small onclick="jQuery(this).parent().find(&#39;p&#39;).slideToggle()">Transcri&ccedil;&atilde;o &darr;</small>
+<p>(No escritório de uma rede social fictícia)<br />
+Chefe: Desde que eu comprei essa rede, já comecei a cobrar mensalidade para quem quer aparecer mais, mudei as regras várias vezes, favoreci discursos de ódio e a rede continua firme e forte...<br />
+Programador: É porque a rede tem um nome e uma marca já bem estabelecida...<br />
+Chefe: Ótimo! Vamos mudar isso também!<br />
+Programador, Programadora e P.A.: PLOFT!<br />
+(Passarinho jogado pela janela)<br />
+--<br />
+Camiseta: Piu!</p>
+</div>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "<a href="https://developerslife.tech/pt/2023/07/24/rebranding/">Rebranding</a>" foi originalmente publicado no site <a href="https://developerslife.tech/pt/">The Developer's Life | Vida de Programador</a>, de <a href="http://andrenoel.com.br/">Andre Noel</a>.</i></p>]]></content:encoded>					
+		</item>
+		<item>
+		<title><![CDATA[Goodbye, Kevin!]]></title>
+		<link>https://developerslife.tech/pt/2023/07/20/goodbye-kevin/</link>
+		<pubDate>Thu, 20 Jul 2023 15:42:09 -0300</pubDate>
+		<dc:creator><![CDATA[Andre Noel]]></dc:creator>
+		<description><![CDATA[<div class="tirinha" style="width:100%"><a href="https://developerslife.tech/pt/uploads/2023/07/tirinha2218.png">
+<picture><source srcset="https://developerslife.tech/pt/uploads/2023/07/tirinha2218.webp"><source srcset="https://developerslife.tech/pt/uploads/2023/07/tirinha2218.png"><img src="https://developerslife.tech/pt/uploads/2023/07/tirinha2218.png" alt="tirinha" title="FREE KEVIN!" style="margin:0" /></picture></a>
+<div id="embed-code-c849d10442" class="embed-code"><a class="inclua" title="Inclua essa tirinha em seu site" href="javascript:void()" onclick="jQuery(&#39;#codigo-tirinha-c849d10442&#39;).slideDown();jQuery(&#39;#embed-code-c849d10442 textarea&#39;).select()"><img title="" src="https://developerslife.tech/pt/axethemes/dev/images/botao-embed.png" alt="Inclua essa tirinha em seu site" /></a>
+<div id="codigo-tirinha-c849d10442" class="codigo-tirinha">COLE ESSE C&Oacute;DIGO EM SEU SITE <a href="javascript:void()" onclick="jQuery(this).parent().slideUp()"><img src="https://developerslife.tech/pt/axethemes/dev/images/close.png" alt="x" /></a><br /><textarea readonly="true" onclick="jQuery(this).select()"><a href="https://developerslife.tech/pt/uploads/2023/07/tirinha2218.png"><img src="https://developerslife.tech/pt/uploads/2023/07/tirinha2218.png" alt="" title="FREE KEVIN!" /></a><small>Fonte: <a href="https://developerslife.tech/pt/">The Developer&#39;s Life</a></small></textarea></div>
+</div>
+</div>
+<div class="transcription"><small onclick="jQuery(this).parent().find(&#39;p&#39;).slideToggle()">Transcri&ccedil;&atilde;o &darr;</small>
+<p>Programador: Cara, que barra! Você viu que o Kevin Mitnick morreu? Eu tô fazendo uma lista aqui em homenagem, vou te adicionar. Qual é o seu e-mail?<br />
+P.A.: Tá, Anota aí: p-a@alonsoft.narnia<br />
+Programador: Bacana, e qual é a senha?<br />
+(P.A. olha estranho)<br />
+P.A.: Olha, se vai homenagear um cara que era o mestre da engenharia social, precisa melhorar muito seu estilo!<br />
+Programador (sorrindo): Eu tinha que tentar...<br />
+--<br />
+Camiseta: FREE KEVIN!</p>
+</div>
+]]></description>
+		<content:encoded><![CDATA[<div class="tirinha" style="width:100%"><a href="https://developerslife.tech/pt/uploads/2023/07/tirinha2218.png">
+<picture><source srcset="https://developerslife.tech/pt/uploads/2023/07/tirinha2218.webp"><source srcset="https://developerslife.tech/pt/uploads/2023/07/tirinha2218.png"><img src="https://developerslife.tech/pt/uploads/2023/07/tirinha2218.png" alt="tirinha" title="FREE KEVIN!" style="margin:0" /></picture></a>
+<div id="embed-code-c849d10442" class="embed-code"><a class="inclua" title="Inclua essa tirinha em seu site" href="javascript:void()" onclick="jQuery(&#39;#codigo-tirinha-c849d10442&#39;).slideDown();jQuery(&#39;#embed-code-c849d10442 textarea&#39;).select()"><img title="" src="https://developerslife.tech/pt/axethemes/dev/images/botao-embed.png" alt="Inclua essa tirinha em seu site" /></a>
+<div id="codigo-tirinha-c849d10442" class="codigo-tirinha">COLE ESSE C&Oacute;DIGO EM SEU SITE <a href="javascript:void()" onclick="jQuery(this).parent().slideUp()"><img src="https://developerslife.tech/pt/axethemes/dev/images/close.png" alt="x" /></a><br /><textarea readonly="true" onclick="jQuery(this).select()"><a href="https://developerslife.tech/pt/uploads/2023/07/tirinha2218.png"><img src="https://developerslife.tech/pt/uploads/2023/07/tirinha2218.png" alt="" title="FREE KEVIN!" /></a><small>Fonte: <a href="https://developerslife.tech/pt/">The Developer&#39;s Life</a></small></textarea></div>
+</div>
+</div>
+<div class="transcription"><small onclick="jQuery(this).parent().find(&#39;p&#39;).slideToggle()">Transcri&ccedil;&atilde;o &darr;</small>
+<p>Programador: Cara, que barra! Você viu que o Kevin Mitnick morreu? Eu tô fazendo uma lista aqui em homenagem, vou te adicionar. Qual é o seu e-mail?<br />
+P.A.: Tá, Anota aí: p-a@alonsoft.narnia<br />
+Programador: Bacana, e qual é a senha?<br />
+(P.A. olha estranho)<br />
+P.A.: Olha, se vai homenagear um cara que era o mestre da engenharia social, precisa melhorar muito seu estilo!<br />
+Programador (sorrindo): Eu tinha que tentar...<br />
+--<br />
+Camiseta: FREE KEVIN!</p>
+</div>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "<a href="https://developerslife.tech/pt/2023/07/20/goodbye-kevin/">Goodbye, Kevin!</a>" foi originalmente publicado no site <a href="https://developerslife.tech/pt/">The Developer's Life | Vida de Programador</a>, de <a href="http://andrenoel.com.br/">Andre Noel</a>.</i></p>]]></content:encoded>					
+		</item>
+		<item>
+		<title><![CDATA[[Vídeo] Como usar o Github como portfolio (de verdade!)]]></title>
+		<link>https://developerslife.tech/pt/2023/07/20/video-como-usar-o-github-como-portfolio/</link>
+		<pubDate>Thu, 20 Jul 2023 13:07:32 -0300</pubDate>
+		<dc:creator><![CDATA[Andre Noel]]></dc:creator>
+		<description><![CDATA[<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/v103ljx5uy0" frameborder="0" allowfullscreen></iframe></div>
+<p>Eu sempre digo que o Github não é um portfolio, porque ninguém vai ficar olhando seus repositórios, mas nesta palestra a Pachi Parra mostra como realmente tornar seu perfil num portfolio e ser uma ótima apresentação sua para empresas e recrutamento.</p>
+<p>Aprenda nessa palestra bem prática como melhorar seu perfil, eu mesmo aproveitei pra melhorar um pouco o meu!</p>
+]]></description>
+		<content:encoded><![CDATA[<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/v103ljx5uy0" frameborder="0" allowfullscreen></iframe></div>
+<p>Eu sempre digo que o Github não é um portfolio, porque ninguém vai ficar olhando seus repositórios, mas nesta palestra a Pachi Parra mostra como realmente tornar seu perfil num portfolio e ser uma ótima apresentação sua para empresas e recrutamento.</p>
+<p>Aprenda nessa palestra bem prática como melhorar seu perfil, eu mesmo aproveitei pra melhorar um pouco o meu!</p>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "<a href="https://developerslife.tech/pt/2023/07/20/video-como-usar-o-github-como-portfolio/">[Vídeo] Como usar o Github como portfolio (de verdade!)</a>" foi originalmente publicado no site <a href="https://developerslife.tech/pt/">The Developer's Life | Vida de Programador</a>, de <a href="http://andrenoel.com.br/">Andre Noel</a>.</i></p>]]></content:encoded>					
+		</item>
+		<item>
+		<title><![CDATA[Valores nulos]]></title>
+		<link>https://developerslife.tech/pt/2023/07/18/valores-nulos/</link>
+		<pubDate>Tue, 18 Jul 2023 11:38:31 -0300</pubDate>
+		<dc:creator><![CDATA[Andre Noel]]></dc:creator>
+		<description><![CDATA[<div class="tirinha" style="width:100%"><a href="https://developerslife.tech/pt/uploads/2023/07/tirinha2217.png">
+<picture><source srcset="https://developerslife.tech/pt/uploads/2023/07/tirinha2217.webp"><source srcset="https://developerslife.tech/pt/uploads/2023/07/tirinha2217.png"><img src="https://developerslife.tech/pt/uploads/2023/07/tirinha2217.png" alt="tirinha" title="I NULL YOU" style="margin:0" /></picture></a>
+<div id="embed-code-c5af56e866" class="embed-code"><a class="inclua" title="Inclua essa tirinha em seu site" href="javascript:void()" onclick="jQuery(&#39;#codigo-tirinha-c5af56e866&#39;).slideDown();jQuery(&#39;#embed-code-c5af56e866 textarea&#39;).select()"><img title="" src="https://developerslife.tech/pt/axethemes/dev/images/botao-embed.png" alt="Inclua essa tirinha em seu site" /></a>
+<div id="codigo-tirinha-c5af56e866" class="codigo-tirinha">COLE ESSE C&Oacute;DIGO EM SEU SITE <a href="javascript:void()" onclick="jQuery(this).parent().slideUp()"><img src="https://developerslife.tech/pt/axethemes/dev/images/close.png" alt="x" /></a><br /><textarea readonly="true" onclick="jQuery(this).select()"><a href="https://developerslife.tech/pt/uploads/2023/07/tirinha2217.png"><img src="https://developerslife.tech/pt/uploads/2023/07/tirinha2217.png" alt="" title="I NULL YOU" /></a><small>Fonte: <a href="https://developerslife.tech/pt/">The Developer&#39;s Life</a></small></textarea></div>
+</div>
+</div>
+<div class="transcription"><small onclick="jQuery(this).parent().find(&#39;p&#39;).slideToggle()">Transcri&ccedil;&atilde;o &darr;</small>
+<p><code>real historia;<br />
+string sender = "George Albuquerque Pinto";</code><br />
+QA: ... Tá aparecendo "null" onde não tem nada, era só pra ficar em branco...<br />
+Dev: Estranho, eu mesmo fiz essa parte e estava certo...<br />
+Dev: Olha aqui... O código está certo, quando o valor é nulo devia ficar em branco... Deixa eu ver o banco...<br />
+Dev: PLOFT!<br />
+QA: O que foi???<br />
+Dev (no chão): O Alonso salvou o texto "NULL" no banco onde não tinha dados...<br />
+--<br />
+Camiseta: I NULL YOU</p>
+</div>
+]]></description>
+		<content:encoded><![CDATA[<div class="tirinha" style="width:100%"><a href="https://developerslife.tech/pt/uploads/2023/07/tirinha2217.png">
+<picture><source srcset="https://developerslife.tech/pt/uploads/2023/07/tirinha2217.webp"><source srcset="https://developerslife.tech/pt/uploads/2023/07/tirinha2217.png"><img src="https://developerslife.tech/pt/uploads/2023/07/tirinha2217.png" alt="tirinha" title="I NULL YOU" style="margin:0" /></picture></a>
+<div id="embed-code-c5af56e866" class="embed-code"><a class="inclua" title="Inclua essa tirinha em seu site" href="javascript:void()" onclick="jQuery(&#39;#codigo-tirinha-c5af56e866&#39;).slideDown();jQuery(&#39;#embed-code-c5af56e866 textarea&#39;).select()"><img title="" src="https://developerslife.tech/pt/axethemes/dev/images/botao-embed.png" alt="Inclua essa tirinha em seu site" /></a>
+<div id="codigo-tirinha-c5af56e866" class="codigo-tirinha">COLE ESSE C&Oacute;DIGO EM SEU SITE <a href="javascript:void()" onclick="jQuery(this).parent().slideUp()"><img src="https://developerslife.tech/pt/axethemes/dev/images/close.png" alt="x" /></a><br /><textarea readonly="true" onclick="jQuery(this).select()"><a href="https://developerslife.tech/pt/uploads/2023/07/tirinha2217.png"><img src="https://developerslife.tech/pt/uploads/2023/07/tirinha2217.png" alt="" title="I NULL YOU" /></a><small>Fonte: <a href="https://developerslife.tech/pt/">The Developer&#39;s Life</a></small></textarea></div>
+</div>
+</div>
+<div class="transcription"><small onclick="jQuery(this).parent().find(&#39;p&#39;).slideToggle()">Transcri&ccedil;&atilde;o &darr;</small>
+<p><code>real historia;<br />
+string sender = "George Albuquerque Pinto";</code><br />
+QA: ... Tá aparecendo "null" onde não tem nada, era só pra ficar em branco...<br />
+Dev: Estranho, eu mesmo fiz essa parte e estava certo...<br />
+Dev: Olha aqui... O código está certo, quando o valor é nulo devia ficar em branco... Deixa eu ver o banco...<br />
+Dev: PLOFT!<br />
+QA: O que foi???<br />
+Dev (no chão): O Alonso salvou o texto "NULL" no banco onde não tinha dados...<br />
+--<br />
+Camiseta: I NULL YOU</p>
+</div>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "<a href="https://developerslife.tech/pt/2023/07/18/valores-nulos/">Valores nulos</a>" foi originalmente publicado no site <a href="https://developerslife.tech/pt/">The Developer's Life | Vida de Programador</a>, de <a href="http://andrenoel.com.br/">Andre Noel</a>.</i></p>]]></content:encoded>					
+		</item>
+	</channel>
+</rss>
