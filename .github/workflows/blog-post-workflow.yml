@@ -17,4 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://developerslife.tech/pt/feed.xml"
-          template: '<ul><li>$randomEmoji <a href="$url">$title</a><br/>$date</li></ul>$newline'
+          template: '<ul><li>$randomEmoji(🔥,😎,🤣,🤯,💥,💻,💬) <a href="$url">$title</a><br/>$date</li></ul>$newline'
