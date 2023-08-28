@@ -30,12 +30,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <a href="https://developerslife.tech/en/2022/05/30/new-branch/"><img src="https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png" style="width:500px" alt="Web comic: New branch" /></a>
 
 ### Últimas publicações
-<!-- BLOG-POST-LIST:START -->
-- [Sentimento de dono](https://developerslife.tech/pt/2023/08/21/sentimento-de-dono/)
-- [Desconfiado](https://developerslife.tech/pt/2023/08/18/desconfiado/)
-- [Captcha difícil](https://developerslife.tech/pt/2023/08/14/captcha-dificil/)
-- [Foto do Linkedin](https://developerslife.tech/pt/2023/08/09/foto-do-linkedin/)
-- [Campo numérico](https://developerslife.tech/pt/2023/08/07/campo-numerico/)
+<!-- BLOG-POST-LIST:START --><ul><li>$randomEmoji <a href="https://developerslife.tech/pt/2023/08/21/sentimento-de-dono/">Sentimento de dono</a><br/>Mon Aug 21 2023 8:46 PM</li></ul>
+<ul><li>$randomEmoji <a href="https://developerslife.tech/pt/2023/08/18/desconfiado/">Desconfiado</a><br/>Fri Aug 18 2023 2:12 PM</li></ul>
+<ul><li>$randomEmoji <a href="https://developerslife.tech/pt/2023/08/14/captcha-dificil/">Captcha difícil</a><br/>Mon Aug 14 2023 8:04 PM</li></ul>
+<ul><li>$randomEmoji <a href="https://developerslife.tech/pt/2023/08/09/foto-do-linkedin/">Foto do Linkedin</a><br/>Wed Aug 09 2023 2:04 PM</li></ul>
+<ul><li>$randomEmoji <a href="https://developerslife.tech/pt/2023/08/07/campo-numerico/">Campo numérico</a><br/>Mon Aug 07 2023 7:57 PM</li></ul>
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
