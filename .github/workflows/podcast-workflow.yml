@@ -15,7 +15,7 @@ jobs:
         with:
           comment_tag_name: "PODCAST"
           feed_list: "https://anchor.fm/s/200871ac/podcast/rss"
-          max_post_count: 1000
+          max_post_count: 5
           commit_message: "🔥Update with lastest Developer's Life Podcast feed"
           committer_username: "🤖TDL-Podcast-Bot"
           committer_email: "<>"
