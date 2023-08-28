@@ -2,7 +2,7 @@ name: The Developer's Life Podcast (Anchor)
 on:
   schedule:
     # Runs “At 00:00 on Friday.”
-    - cron: '0 * * * FRI'
+    - cron: '42 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "PODCAST-FEED"
+          comment_tag_name: "PODCAST"
           feed_list: "https://anchor.fm/s/200871ac/podcast/rss"
           max_post_count: 1000
           commit_message: "🔥Update with lastest Developer's Life Podcast feed"

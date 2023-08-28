@@ -52,5 +52,5 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
-<!-- PODCAST-FEED:START -->
-<!-- PODCAST-FEED:END -->
+<!-- PODCAST:START -->
+<!-- PODCAST:END -->
