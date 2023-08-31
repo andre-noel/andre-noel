@@ -38,7 +38,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Zu-PTE4U4F4"><img width="140px" src="https://i.ytimg.com/vi/Zu-PTE4U4F4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aMF98DOvW1k"><img width="140px" src="https://i.ytimg.com/vi/aMF98DOvW1k/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=aMF98DOvW1k">Está chegando o The Developer&#39;s Life Weekend 2023</a><br/>Aug 31, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Zu-PTE4U4F4"><img width="140px" src="https://i.ytimg.com/vi/Zu-PTE4U4F4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Zu-PTE4U4F4">Conheça a trilha InnovationLab, no TDC!</a><br/>Aug 24, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xqtLCWeSDe4"><img width="140px" src="https://i.ytimg.com/vi/xqtLCWeSDe4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xqtLCWeSDe4">Desenhando tirinha!!!</a><br/>Aug 22, 2023</td></tr></table>
@@ -46,8 +48,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=Z6zJqaDI5-I">Desenhando tirinha!!!</a><br/>Aug 15, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Ptyd1_1QaKQ"><img width="140px" src="https://i.ytimg.com/vi/Ptyd1_1QaKQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ptyd1_1QaKQ">Como criar &quot;firewalls cognitivos&quot; para lidar com nossos &quot;hackers cerebrais&quot; | The Developer&#39;s Life</a><br/>Aug 10, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=80xVW7U9TnQ"><img width="140px" src="https://i.ytimg.com/vi/80xVW7U9TnQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=80xVW7U9TnQ">Desenhando tirinha!!!</a><br/>Aug 8, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
