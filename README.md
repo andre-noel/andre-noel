@@ -39,7 +39,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=IcCXfozVZ7Y"><img width="140px" src="https://i.ytimg.com/vi/IcCXfozVZ7Y/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=IcCXfozVZ7Y">Desenhando tirinha!!!</a><br/>Aug 31, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=IcCXfozVZ7Y">Desenhando tirinha!!!</a><br/>Sep 1, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=aMF98DOvW1k"><img width="140px" src="https://i.ytimg.com/vi/aMF98DOvW1k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aMF98DOvW1k">Está chegando o The Developer&#39;s Life Weekend 2023</a><br/>Aug 31, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Zu-PTE4U4F4"><img width="140px" src="https://i.ytimg.com/vi/Zu-PTE4U4F4/mqdefault.jpg"></a></td>
