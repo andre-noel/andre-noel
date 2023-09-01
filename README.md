@@ -30,11 +30,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <a href="https://developerslife.tech/en/2022/05/30/new-branch/"><img src="https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png" style="width:500px" alt="Web comic: New branch" /></a>
 
 ### Últimas publicações
-<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2023/08/29/libera-geral/">Libera geral</a><br/>Tue Aug 29 2023 7:18 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2023/08/21/sentimento-de-dono/">Sentimento de dono</a><br/>Mon Aug 21 2023 8:46 PM</li></ul>
-<ul><li>💥 <a href="https://developerslife.tech/pt/2023/08/18/desconfiado/">Desconfiado</a><br/>Fri Aug 18 2023 2:12 PM</li></ul>
-<ul><li>💬 <a href="https://developerslife.tech/pt/2023/08/14/captcha-dificil/">Captcha difícil</a><br/>Mon Aug 14 2023 8:04 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2023/08/09/foto-do-linkedin/">Foto do Linkedin</a><br/>Wed Aug 09 2023 2:04 PM</li></ul>
+<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2023/09/01/erro-no-backup/">Erro no backup</a><br/>Fri Sep 01 2023 2:15 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2023/08/29/libera-geral/">Libera geral</a><br/>Tue Aug 29 2023 7:18 PM</li></ul>
+<ul><li>💥 <a href="https://developerslife.tech/pt/2023/08/21/sentimento-de-dono/">Sentimento de dono</a><br/>Mon Aug 21 2023 8:46 PM</li></ul>
+<ul><li>💬 <a href="https://developerslife.tech/pt/2023/08/18/desconfiado/">Desconfiado</a><br/>Fri Aug 18 2023 2:12 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2023/08/14/captcha-dificil/">Captcha difícil</a><br/>Mon Aug 14 2023 8:04 PM</li></ul>
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
