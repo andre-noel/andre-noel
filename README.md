@@ -38,7 +38,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5wqddXP9X8I"><img width="140px" src="https://i.ytimg.com/vi/5wqddXP9X8I/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=oOLY7i4pUns"><img width="140px" src="https://i.ytimg.com/vi/oOLY7i4pUns/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=oOLY7i4pUns">Desenhando tirinha!!!</a><br/>Sep 11, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=5wqddXP9X8I"><img width="140px" src="https://i.ytimg.com/vi/5wqddXP9X8I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5wqddXP9X8I">Desenhando tirinha!!!</a><br/>Sep 5, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=IcCXfozVZ7Y"><img width="140px" src="https://i.ytimg.com/vi/IcCXfozVZ7Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IcCXfozVZ7Y">Desenhando tirinha!!!</a><br/>Sep 1, 2023</td></tr></table>
@@ -46,8 +48,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=aMF98DOvW1k">Está chegando o The Developer&#39;s Life Weekend 2023</a><br/>Aug 31, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Zu-PTE4U4F4"><img width="140px" src="https://i.ytimg.com/vi/Zu-PTE4U4F4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Zu-PTE4U4F4">Conheça a trilha InnovationLab, no TDC!</a><br/>Aug 24, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=xqtLCWeSDe4"><img width="140px" src="https://i.ytimg.com/vi/xqtLCWeSDe4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xqtLCWeSDe4">Desenhando tirinha!!!</a><br/>Aug 22, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
