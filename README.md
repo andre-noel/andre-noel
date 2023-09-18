@@ -30,11 +30,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <a href="https://developerslife.tech/en/2022/05/30/new-branch/"><img src="https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png" style="width:500px" alt="Web comic: New branch" /></a>
 
 ### Últimas publicações
-<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2023/09/15/processo-de-desenvolvimento-de-software/">Processo de desenvolvimento de software</a><br/>Fri Sep 15 2023 7:17 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2023/09/14/tudo-no-else/">Tudo no else</a><br/>Thu Sep 14 2023 5:52 PM</li></ul>
-<ul><li>💥 <a href="https://developerslife.tech/pt/2023/09/12/tecnoupdate-for-dev-2023/">TecnoUpdate for DEV 2023</a><br/>Tue Sep 12 2023 2:30 PM</li></ul>
-<ul><li>💬 <a href="https://developerslife.tech/pt/2023/09/04/checkup-do-banco/">Check-up do banco</a><br/>Mon Sep 04 2023 8:21 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2023/09/01/erro-no-backup/">Erro no backup</a><br/>Fri Sep 01 2023 2:15 PM</li></ul>
+<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2023/09/18/tdc-business-2023/">TDC Business 2023</a><br/>Mon Sep 18 2023 6:56 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2023/09/15/processo-de-desenvolvimento-de-software/">Processo de desenvolvimento de software</a><br/>Fri Sep 15 2023 7:17 PM</li></ul>
+<ul><li>💥 <a href="https://developerslife.tech/pt/2023/09/14/tudo-no-else/">Tudo no else</a><br/>Thu Sep 14 2023 5:52 PM</li></ul>
+<ul><li>💬 <a href="https://developerslife.tech/pt/2023/09/12/tecnoupdate-for-dev-2023/">TecnoUpdate for DEV 2023</a><br/>Tue Sep 12 2023 2:30 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2023/09/04/checkup-do-banco/">Check-up do banco</a><br/>Mon Sep 04 2023 8:21 PM</li></ul>
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
