@@ -39,7 +39,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=j5wVGcj-sLA"><img width="140px" src="https://i.ytimg.com/vi/j5wVGcj-sLA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=j5wVGcj-sLA">Sorteio de entradas para o TDC!</a><br/>Sep 18, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=j5wVGcj-sLA">Sorteio de entradas para o TDC!</a><br/>Sep 19, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8b6JDh6v6H4"><img width="140px" src="https://i.ytimg.com/vi/8b6JDh6v6H4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8b6JDh6v6H4">Você conhece o TDC?</a><br/>Sep 17, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=3zhrM1zFBqg"><img width="140px" src="https://i.ytimg.com/vi/3zhrM1zFBqg/mqdefault.jpg"></a></td>
