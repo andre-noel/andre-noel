@@ -52,6 +52,21 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos episódios no podcast
 <!-- PODCAST:START -->
+ #### - [Episódio #46 - DEV debaixo de microgerência não funciona direito (feat. Giovanni Bassi)](https://podcasters.spotify.com/pod/show/vidadeprogramador/episodes/Episdio-46---DEV-debaixo-de-microgerncia-no-funciona-direito-feat--Giovanni-Bassi-e29rkmp) 
+ <details><summary></summary> <p>Uma conversa supimpa, gravada diretamente no TDC Business, junto com o podcast &quot;Tem Tempo Pra Pergunta?&quot;. Conversei com o Giovanni Bassi, que tem uma história muito legal de empreendedorismo e gestão, é um dos fundadores da Lambda3, que foi adquirida pelo grupo TIVIT.</p>
+<p><br></p>
+<p>Conversamos sobre desenvolvimento, trabalho remoto ou presencial, gestão de equipes, gambiarras e mais...</p>
+<p><br></p>
+<p>Foi a primeira vez onde foi gravado presencialmente, com vídeo, provavelmente vai ser a única, portanto vocês podem acompanhar o podcast pelo link podcast.developerslife.tech ou em qualquer agregador de podcasts. Tem muito episódio bom por lá, dê uma olhada que você vai gostar!</p>
+<p><br></p>
+<p>https://podcast.developerslife.tech/</p>
+<p>
+Siga-me nas redes:
+Twitter: https://twitter.com/ProgramadorREAL
+Instagram: https://instagram.com/programadorreal<br></p>
+ </details> 
+ <hr /> 
+
  #### - [Short #0 - O que é essa placa Intel Arc? (feat. Alessandro "Cabelo" Faria)](https://podcasters.spotify.com/pod/show/vidadeprogramador/episodes/Short-0---O-que--essa-placa-Intel-Arc--feat--Alessandro-Cabelo-Faria-e1ujcui) 
  <details><summary></summary> <p>Você já ouviu falar na nova placa Intel Arc? É uma placa com GPU top, para concorrer com as famosas RTX, focada em processamento de Inteligência Artificial.</p>
 <p>Como eu não sou expert nessa área, quem está comigo no episódio é o grande Cabelo, que é expert em inovação e que criou a primeira imagem Linux com driver nativo para essa nova placa.</p>
@@ -85,16 +100,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
  #### - [Episódio #43 - A arte de trabalhar com dados e vários maus exemplos! (feat. Dani Monteiro)](https://podcasters.spotify.com/pod/show/vidadeprogramador/episodes/Episdio-43---A-arte-de-trabalhar-com-dados-e-vrios-maus-exemplos--feat--Dani-Monteiro-e1kpu2i) 
  <details><summary></summary> <p>Uma conversa gostosa com a Dani Monteiro, que manda muito bem na engenharia de dados, onde conversamos sobre dados, mas principalmente sobre vários maus exemplos para relaxar e compartilhar com o mundo essa dor :D</p>
 <p>Perfil da Dani: https://www.linkedin.com/in/danimonteirodba/</p>
- </details> 
- <hr /> 
-
- #### - [Episódio #42 - Programação em Baixo Nível de Alto Nível e a Crise de Microchips! (feat. Prof. Alessandro Cunha)](https://podcasters.spotify.com/pod/show/vidadeprogramador/episodes/Episdio-42---Programao-em-Baixo-Nvel-de-Alto-Nvel-e-a-Crise-de-Microchips--feat--Prof--Alessandro-Cunha-e1gc32f) 
- <details><summary></summary> <p>Uma conversa em 8-bits com o Prof. Alessandro Cunha, onde falamos sobre programação em baixo nível, plaquinhas, sobre a atual falta de semicondutores e o que isso implica.</p>
-<p>Links citados:</p>
-<p><a href="https://www.youtube.com/watch?v=Tfh0ytz8S0k"><u>Como gráficos antigos funcionavam</u></a></p>
-<p><a href="https://www.linkedin.com/in/alessandrofcunha/"><u>Prof. Alessandro no Linkedin</u></a></p>
-<p><a href="https://www.avnet.com/wps/portal/us/"><u>Avnet</u></a></p>
-<p><a href="https://www.embarcados.com.br/treinamento-online-embarcados-do-prototipo-a-producao-o-caminho-das-pedras/"><u>Treinamento online Embarcados: Do protótipo à produção: o caminho das pedras</u></a></p>
  </details> 
  <hr /> 
 <!-- PODCAST:END -->
