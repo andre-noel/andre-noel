@@ -38,8 +38,8 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hsr6pxu3ZMA"><img width="140px" src="https://i.ytimg.com/vi/hsr6pxu3ZMA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=hsr6pxu3ZMA">Esquenta The Developer&#39;s Life Weekend - Um dia repleto de palestras supimpásticas!</a><br/>Sep 29, 2023</td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=IamOTHWbKjk"><img width="140px" src="https://i.ytimg.com/vi/IamOTHWbKjk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=IamOTHWbKjk">Esquenta The Developer&#39;s Life Weekend!</a><br/>Sep 29, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=f3UKknSysQw"><img width="140px" src="https://i.ytimg.com/vi/f3UKknSysQw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=f3UKknSysQw">Podcast Episódio #46 - DEV debaixo de microgerência não funciona direito &lpar;feat. Giovanni Bassi&rpar;</a><br/>Sep 27, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=emzXgkDkNi4"><img width="140px" src="https://i.ytimg.com/vi/emzXgkDkNi4/mqdefault.jpg"></a></td>
