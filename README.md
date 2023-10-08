@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="eu.png" align="right" height="300px">
+<img src="noel-github.png" align="right" height="300px">
 
 Master's Degree in Computer Science, developer and Linux user since 2002, member of Ubuntu Community. Worked many years programming software, so he uses the expertise and the fact the no one takes him serious to work with comics and humor.
 
 He has great known in "workarounds" (the brazilian "gambiarra") and is totally moved by coffee. He is the one who move the vectors to create the webcomics at [The Developer's Life](https://developerslife.tech/). Married to Raquel, father of Mateus, Gabrielle, Isabelle and Sofia.
 
 ---
+
+<img src="eu.png" align="right" height="300px">
 
 Mestre em Ciência da Computação (UEM), programador e usuário Linux desde 2002, membro oficial da Comunidade Ubuntu. Trabalhou por diversos anos com programação, por isso aproveitou a experiência na área, juntando com o fato de que nunca foi levado muito a sério, e hoje se dedica ao ensino, ao humor e programa para si próprio.
 
