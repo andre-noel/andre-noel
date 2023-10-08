@@ -15,19 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="noel-github.png" style="float:right" height="300px">
+<img src="noel-github.png" align="right" height="300px">
 
 Master's Degree in Computer Science, developer and Linux user since 2002, member of Ubuntu Community. Worked many years programming software, so he uses the expertise and the fact the no one takes him serious to work with comics and humor.
 
 He has great known in "workarounds" (the brazilian "gambiarra") and is totally moved by coffee. He is the one who move the vectors to create the webcomics at [The Developer's Life](https://developerslife.tech/). Married to Raquel, father of Mateus, Gabrielle, Isabelle and Sofia.
 
-<hr style="clear:both" />
-
-<img src="eu.png" style="float:right" height="300px">
+---
 
 Mestre em Ciência da Computação (UEM), programador e usuário Linux desde 2002, membro oficial da Comunidade Ubuntu. Trabalhou por diversos anos com programação, por isso aproveitou a experiência na área, juntando com o fato de que nunca foi levado muito a sério, e hoje se dedica ao ensino, ao humor e programa para si próprio.
 
 Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e totalmente viciado em café. É o criador do site Vida de Programador (agora [The Developer's Life](https://developerslife.tech/)), responsável por manipular os vetores que se transformam em tirinhas. Aproveitando-se de sua inigualável beleza e sua voz macia, começou a se dedicar também a fazer um [vídeos](https://youtube.com/ProgramadorREAL) para o youtube e [podcast](https://podcast.developerslife.tech/). É casado com Raquel, pai do Mateus, da Gabrielle, da Isabelle e da Sofia.
+
+<img src="eu.png" align="right" height="300px">
 
 <a href="https://developerslife.tech/en/2022/05/30/new-branch/"><img src="https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png" style="width:500px" alt="Web comic: New branch" /></a>
 
