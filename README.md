@@ -32,11 +32,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <a href="https://developerslife.tech/en/2022/05/30/new-branch/"><img src="https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png" style="width:500px" alt="Web comic: New branch" /></a>
 
 ### Últimas publicações
-<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2023/10/17/identidade-visual/">Identidade visual</a><br/>Tue Oct 17 2023 7:30 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2023/10/17/ao-vivo-com-andre-noel/">Ao Vivo com Andre Noel - Criando Tirinhas e Conectando com a Comunidade!</a><br/>Tue Oct 17 2023 12:11 PM</li></ul>
-<ul><li>💥 <a href="https://developerslife.tech/pt/2023/10/10/vai-dar-zica/">Vai dar zica</a><br/>Tue Oct 10 2023 8:43 PM</li></ul>
-<ul><li>💬 <a href="https://developerslife.tech/pt/2023/10/06/camelo/">Camelô</a><br/>Fri Oct 06 2023 1:40 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2023/09/29/em-qual-linguagem/">Em qual linguagem?</a><br/>Fri Sep 29 2023 1:16 PM</li></ul>
+<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2023/10/20/video-servidor-cloud-sem-susto/">[Vídeo] Quer uma boa opção de servidores Cloud que não vai te dar sustos?</a><br/>Fri Oct 20 2023 9:03 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2023/10/17/identidade-visual/">Identidade visual</a><br/>Tue Oct 17 2023 7:30 PM</li></ul>
+<ul><li>💥 <a href="https://developerslife.tech/pt/2023/10/17/ao-vivo-com-andre-noel/">Ao Vivo com Andre Noel - Criando Tirinhas e Conectando com a Comunidade!</a><br/>Tue Oct 17 2023 12:11 PM</li></ul>
+<ul><li>💬 <a href="https://developerslife.tech/pt/2023/10/10/vai-dar-zica/">Vai dar zica</a><br/>Tue Oct 10 2023 8:43 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2023/10/06/camelo/">Camelô</a><br/>Fri Oct 06 2023 1:40 PM</li></ul>
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
