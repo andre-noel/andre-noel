@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2V8jFDoglqg"><img width="140px" src="https://i.ytimg.com/vi/2V8jFDoglqg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=GIY5l-CQCIU"><img width="140px" src="https://i.ytimg.com/vi/GIY5l-CQCIU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GIY5l-CQCIU">Desenhando ao vivo com Andre Noel</a><br/>Oct 21, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=2V8jFDoglqg"><img width="140px" src="https://i.ytimg.com/vi/2V8jFDoglqg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2V8jFDoglqg">Quer uma boa opção de servidores Cloud que não vai te dar sustos?</a><br/>Oct 20, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5f9Szis-T_A"><img width="140px" src="https://i.ytimg.com/vi/5f9Szis-T_A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5f9Szis-T_A">Ao Vivo com Andre Noel - Criando Tirinhas e Conectando com a Comunidade!</a><br/>Oct 18, 2023</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=211saTJm8WY">Vamos desenhar tirinha ao vivo!</a><br/>Oct 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=OiE0o6fjhYw"><img width="140px" src="https://i.ytimg.com/vi/OiE0o6fjhYw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OiE0o6fjhYw">Camisetas supimpas para DEVs!! #desenvolvimento #eventos</a><br/>Oct 6, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=IamOTHWbKjk"><img width="140px" src="https://i.ytimg.com/vi/IamOTHWbKjk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=IamOTHWbKjk">Esquenta The Developer&#39;s Life Weekend!</a><br/>Sep 29, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
