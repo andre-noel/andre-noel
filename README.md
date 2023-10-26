@@ -32,11 +32,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <a href="https://developerslife.tech/en/2022/05/30/new-branch/"><img src="https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png" style="width:500px" alt="Web comic: New branch" /></a>
 
 ### Últimas publicações
-<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2023/10/24/networking/">Networking</a><br/>Tue Oct 24 2023 7:45 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2023/10/24/vamos-desenhar-24-out/">Vamos desenhar ao vivo hoje! &lpar;24/out&rpar;</a><br/>Tue Oct 24 2023 5:36 PM</li></ul>
-<ul><li>💥 <a href="https://developerslife.tech/pt/2023/10/20/video-servidor-cloud-sem-susto/">[Vídeo] Quer uma boa opção de servidores Cloud que não vai te dar sustos?</a><br/>Fri Oct 20 2023 9:03 PM</li></ul>
-<ul><li>💬 <a href="https://developerslife.tech/pt/2023/10/17/identidade-visual/">Identidade visual</a><br/>Tue Oct 17 2023 7:30 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2023/10/17/ao-vivo-com-andre-noel/">Ao Vivo com Andre Noel - Criando Tirinhas e Conectando com a Comunidade!</a><br/>Tue Oct 17 2023 12:11 PM</li></ul>
+<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2023/10/26/the-developers-life-esquenta/">The Developer&amp;#39;s Life Esquenta</a><br/>Thu Oct 26 2023 5:47 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2023/10/24/networking/">Networking</a><br/>Tue Oct 24 2023 7:45 PM</li></ul>
+<ul><li>💥 <a href="https://developerslife.tech/pt/2023/10/24/vamos-desenhar-24-out/">Vamos desenhar ao vivo hoje! &lpar;24/out&rpar;</a><br/>Tue Oct 24 2023 5:36 PM</li></ul>
+<ul><li>💬 <a href="https://developerslife.tech/pt/2023/10/20/video-servidor-cloud-sem-susto/">[Vídeo] Quer uma boa opção de servidores Cloud que não vai te dar sustos?</a><br/>Fri Oct 20 2023 9:03 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2023/10/17/identidade-visual/">Identidade visual</a><br/>Tue Oct 17 2023 7:30 PM</li></ul>
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
