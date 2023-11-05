@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mx7d7rkRdTo"><img width="140px" src="https://i.ytimg.com/vi/mx7d7rkRdTo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xql80Jhbu1A"><img width="140px" src="https://i.ytimg.com/vi/xql80Jhbu1A/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xql80Jhbu1A">Developer Experience com Github - Palestra com Julio Arruda - The Developer&#39;s Life Esquenta</a><br/>Nov 5, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mx7d7rkRdTo"><img width="140px" src="https://i.ytimg.com/vi/mx7d7rkRdTo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mx7d7rkRdTo">Ao Vivo com Andre Noel - Criando Tirinhas e Conectando com a Comunidade!</a><br/>Nov 3, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=LdXk1oTIzdI"><img width="140px" src="https://i.ytimg.com/vi/LdXk1oTIzdI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LdXk1oTIzdI">Ao Vivo com Andre Noel - Criando Tirinhas e Conectando com a Comunidade!</a><br/>Nov 1, 2023</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=IamOTHWbKjk">Esquenta The Developer&#39;s Life Weekend!</a><br/>Oct 28, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=BqBjz43HtDg"><img width="140px" src="https://i.ytimg.com/vi/BqBjz43HtDg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BqBjz43HtDg">Neste sábado, The Developer&#39;s Life Esquenta!</a><br/>Oct 26, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=GIY5l-CQCIU"><img width="140px" src="https://i.ytimg.com/vi/GIY5l-CQCIU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GIY5l-CQCIU">Desenhando ao vivo com Andre Noel</a><br/>Oct 25, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
