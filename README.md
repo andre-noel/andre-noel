@@ -32,11 +32,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <a href="https://developerslife.tech/en/2022/05/30/new-branch/"><img src="https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png" style="width:500px" alt="Web comic: New branch" /></a>
 
 ### Últimas publicações
-<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2023/11/07/vamos-desenhar-07-nov/">Vamos desenhar ao vivo hoje! &lpar;07/nov&rpar;</a><br/>Tue Nov 07 2023 5:03 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2023/11/05/palestra-developer-experience-com-github/">Palestra: Developer Experience com Github</a><br/>Sun Nov 05 2023 10:18 PM</li></ul>
-<ul><li>💥 <a href="https://developerslife.tech/pt/2023/11/03/sem-acesso/">Sem acesso</a><br/>Fri Nov 03 2023 5:21 PM</li></ul>
-<ul><li>💬 <a href="https://developerslife.tech/pt/2023/10/31/rest/">REST</a><br/>Tue Oct 31 2023 7:42 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2023/10/31/vamos-desenhar-31-out/">Vamos desenhar ao vivo hoje! &lpar;31/out&rpar;</a><br/>Tue Oct 31 2023 2:10 PM</li></ul>
+<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2023/11/07/informacoes-sensiveis/">Informações sensíveis</a><br/>Tue Nov 07 2023 7:50 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2023/11/07/vamos-desenhar-07-nov/">Vamos desenhar ao vivo hoje! &lpar;07/nov&rpar;</a><br/>Tue Nov 07 2023 5:03 PM</li></ul>
+<ul><li>💥 <a href="https://developerslife.tech/pt/2023/11/05/palestra-developer-experience-com-github/">Palestra: Developer Experience com Github</a><br/>Sun Nov 05 2023 10:18 PM</li></ul>
+<ul><li>💬 <a href="https://developerslife.tech/pt/2023/11/03/sem-acesso/">Sem acesso</a><br/>Fri Nov 03 2023 5:21 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2023/10/31/rest/">REST</a><br/>Tue Oct 31 2023 7:42 PM</li></ul>
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
