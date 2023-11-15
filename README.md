@@ -41,7 +41,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=QIafVw0EoRQ"><img width="140px" src="https://i.ytimg.com/vi/QIafVw0EoRQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QIafVw0EoRQ">Ao Vivo com Andre Noel - Criando Tirinhas e Conectando com a Comunidade!</a><br/>Nov 14, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=QIafVw0EoRQ">Ao Vivo com Andre Noel - Criando Tirinhas e Conectando com a Comunidade!</a><br/>Nov 15, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZzgdJ34dRm4"><img width="140px" src="https://i.ytimg.com/vi/ZzgdJ34dRm4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZzgdJ34dRm4">Migrando Testes usando scripts do Apache Camel de AWS para a Google Cloud - Bárbara Cabral</a><br/>Nov 8, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mx7d7rkRdTo"><img width="140px" src="https://i.ytimg.com/vi/mx7d7rkRdTo/mqdefault.jpg"></a></td>
