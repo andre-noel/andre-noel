@@ -40,16 +40,16 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=QIafVw0EoRQ"><img width="140px" src="https://i.ytimg.com/vi/QIafVw0EoRQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=27i2laY2cuI"><img width="140px" src="https://i.ytimg.com/vi/27i2laY2cuI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=27i2laY2cuI">Inscreva-se no TDC Future 2023! #desenvolvedores #comunidadeunida #thedevconf</a><br/>Nov 30, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=xPHjISwr0JQ"><img width="140px" src="https://i.ytimg.com/vi/xPHjISwr0JQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xPHjISwr0JQ">Inscreva-se no TDC Future 2023!!</a><br/>Nov 30, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=QIafVw0EoRQ"><img width="140px" src="https://i.ytimg.com/vi/QIafVw0EoRQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QIafVw0EoRQ">Ao Vivo com Andre Noel - Criando Tirinhas e Conectando com a Comunidade!</a><br/>Nov 15, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZzgdJ34dRm4"><img width="140px" src="https://i.ytimg.com/vi/ZzgdJ34dRm4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZzgdJ34dRm4">Migrando Testes usando scripts do Apache Camel de AWS para a Google Cloud - Bárbara Cabral</a><br/>Nov 8, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mx7d7rkRdTo"><img width="140px" src="https://i.ytimg.com/vi/mx7d7rkRdTo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mx7d7rkRdTo">Ao Vivo com Andre Noel - Criando Tirinhas e Conectando com a Comunidade!</a><br/>Nov 8, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=xql80Jhbu1A"><img width="140px" src="https://i.ytimg.com/vi/xql80Jhbu1A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xql80Jhbu1A">Developer Experience com Github - Palestra com Julio Arruda - The Developer&#39;s Life Esquenta</a><br/>Nov 5, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=LdXk1oTIzdI"><img width="140px" src="https://i.ytimg.com/vi/LdXk1oTIzdI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=LdXk1oTIzdI">Ao Vivo com Andre Noel - Criando Tirinhas e Conectando com a Comunidade!</a><br/>Nov 1, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
