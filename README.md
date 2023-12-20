@@ -41,7 +41,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kBEMgANbMGQ"><img width="140px" src="https://i.ytimg.com/vi/kBEMgANbMGQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kBEMgANbMGQ">Ao Vivo com Andre Noel - Criando Tirinhas e Conectando com a Comunidade!</a><br/>Dec 19, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=kBEMgANbMGQ">Ao Vivo com Andre Noel - Criando Tirinhas e Conectando com a Comunidade!</a><br/>Dec 20, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=yrHHaiHj9KA"><img width="140px" src="https://i.ytimg.com/vi/yrHHaiHj9KA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yrHHaiHj9KA">Ao Vivo com Andre Noel - Criando Tirinhas e Conectando com a Comunidade!</a><br/>Dec 13, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=fq5sVxNtyiQ"><img width="140px" src="https://i.ytimg.com/vi/fq5sVxNtyiQ/mqdefault.jpg"></a></td>
