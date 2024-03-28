@@ -32,11 +32,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <a href="https://developerslife.tech/en/2022/05/30/new-branch/"><img src="https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png" style="width:500px" alt="Web comic: New branch" /></a>
 
 ### Últimas publicações
-<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2024/03/25/substituido/">Substituído</a><br/>Mon Mar 25 2024 7:17 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/02/28/13-anos-de-developers-life/">13 anos de Developer&amp;#39;s Life!!!</a><br/>Wed Feb 28 2024 6:19 PM</li></ul>
-<ul><li>💥 <a href="https://developerslife.tech/pt/2024/02/01/os-riscos-da-ia-generativa/">Os riscos da I.A. generativa</a><br/>Thu Feb 01 2024 5:03 PM</li></ul>
-<ul><li>💬 <a href="https://developerslife.tech/pt/2024/01/31/jogo-do-elefantinho/">Jogo do elefantinho</a><br/>Wed Jan 31 2024 7:12 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2023/12/12/padroes-de-projeto/">Padrões de projeto</a><br/>Tue Dec 12 2023 7:19 PM</li></ul>
+<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2024/03/28/nervoso/">Nervoso</a><br/>Thu Mar 28 2024 4:33 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/03/25/substituido/">Substituído</a><br/>Mon Mar 25 2024 7:17 PM</li></ul>
+<ul><li>💥 <a href="https://developerslife.tech/pt/2024/02/28/13-anos-de-developers-life/">13 anos de Developer&amp;#39;s Life!!!</a><br/>Wed Feb 28 2024 6:19 PM</li></ul>
+<ul><li>💬 <a href="https://developerslife.tech/pt/2024/02/01/os-riscos-da-ia-generativa/">Os riscos da I.A. generativa</a><br/>Thu Feb 01 2024 5:03 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/01/31/jogo-do-elefantinho/">Jogo do elefantinho</a><br/>Wed Jan 31 2024 7:12 PM</li></ul>
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
