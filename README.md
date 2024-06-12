@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kBEMgANbMGQ"><img width="140px" src="https://i.ytimg.com/vi/kBEMgANbMGQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qJPVrn4aTSs"><img width="140px" src="https://i.ytimg.com/vi/qJPVrn4aTSs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=qJPVrn4aTSs">DevCreU: A universidade criativa do desenvolvedor!</a><br/>Jun 12, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=kBEMgANbMGQ"><img width="140px" src="https://i.ytimg.com/vi/kBEMgANbMGQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kBEMgANbMGQ">Ao Vivo com Andre Noel - Criando Tirinhas e Conectando com a Comunidade!</a><br/>Dec 20, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=yrHHaiHj9KA"><img width="140px" src="https://i.ytimg.com/vi/yrHHaiHj9KA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yrHHaiHj9KA">Ao Vivo com Andre Noel - Criando Tirinhas e Conectando com a Comunidade!</a><br/>Dec 13, 2023</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=fq5sVxNtyiQ">Venha para a trilha Web &amp; Front-end!</a><br/>Dec 1, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=27i2laY2cuI"><img width="140px" src="https://i.ytimg.com/vi/27i2laY2cuI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=27i2laY2cuI">Inscreva-se no TDC Future 2023! #desenvolvedores #comunidadeunida #thedevconf</a><br/>Nov 30, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=xPHjISwr0JQ"><img width="140px" src="https://i.ytimg.com/vi/xPHjISwr0JQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xPHjISwr0JQ">Inscreva-se no TDC Future 2023!!</a><br/>Nov 30, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
