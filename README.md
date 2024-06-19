@@ -32,11 +32,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <a href="https://developerslife.tech/en/2022/05/30/new-branch/"><img src="https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png" style="width:500px" alt="Web comic: New branch" /></a>
 
 ### Últimas publicações
-<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2024/06/14/22-horas/">22 horas</a><br/>Fri Jun 14 2024 5:27 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/06/12/devcreu-a-universidade-criativa-do-desenvolvedor/">DevCreU: A universidade criativa do desenvolvedor!</a><br/>Wed Jun 12 2024 10:16 PM</li></ul>
-<ul><li>💥 <a href="https://developerslife.tech/pt/2024/06/10/ambiente-familiar/">Ambiente Familiar</a><br/>Mon Jun 10 2024 2:20 PM</li></ul>
-<ul><li>💬 <a href="https://developerslife.tech/pt/2024/04/16/bom-diaaaaaa/">Bom diaaaaaa</a><br/>Tue Apr 16 2024 2:40 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/03/28/nervoso/">Nervoso</a><br/>Thu Mar 28 2024 4:33 PM</li></ul>
+<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2024/06/19/esqueci-a-senha/">Esqueci a senha</a><br/>Wed Jun 19 2024 10:41 AM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/06/14/22-horas/">22 horas</a><br/>Fri Jun 14 2024 5:27 PM</li></ul>
+<ul><li>💥 <a href="https://developerslife.tech/pt/2024/06/12/devcreu-a-universidade-criativa-do-desenvolvedor/">DevCreU: A universidade criativa do desenvolvedor!</a><br/>Wed Jun 12 2024 10:16 PM</li></ul>
+<ul><li>💬 <a href="https://developerslife.tech/pt/2024/06/10/ambiente-familiar/">Ambiente Familiar</a><br/>Mon Jun 10 2024 2:20 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/04/16/bom-diaaaaaa/">Bom diaaaaaa</a><br/>Tue Apr 16 2024 2:40 PM</li></ul>
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
