@@ -41,7 +41,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=V1cAklNi55A"><img width="140px" src="https://i.ytimg.com/vi/V1cAklNi55A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=V1cAklNi55A">Oh, sheet! Aula 1 - Visão básica sobre as planilhas e o ambiente</a><br/>Jun 23, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=V1cAklNi55A">Oh, sheet! Aula 1 - Visão básica sobre as planilhas e o ambiente</a><br/>Jun 24, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qJPVrn4aTSs"><img width="140px" src="https://i.ytimg.com/vi/qJPVrn4aTSs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qJPVrn4aTSs">DevCreU: A universidade criativa do desenvolvedor!</a><br/>Jun 12, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=kBEMgANbMGQ"><img width="140px" src="https://i.ytimg.com/vi/kBEMgANbMGQ/mqdefault.jpg"></a></td>
