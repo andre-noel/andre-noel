@@ -41,7 +41,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=dt52oU3ndAY"><img width="140px" src="https://i.ytimg.com/vi/dt52oU3ndAY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=dt52oU3ndAY">Oh, sheet! Aula 2 - Fórmulas e referências!</a><br/>Jun 30, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=dt52oU3ndAY">Oh, sheet! Aula 2 - Fórmulas e referências!</a><br/>Jul 1, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=S0W5e-cBVTE"><img width="140px" src="https://i.ytimg.com/vi/S0W5e-cBVTE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=S0W5e-cBVTE">Do Zero ao Full Stack - Aula 01 - Aprendendo a programar!</a><br/>Jun 27, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=V1cAklNi55A"><img width="140px" src="https://i.ytimg.com/vi/V1cAklNi55A/mqdefault.jpg"></a></td>
