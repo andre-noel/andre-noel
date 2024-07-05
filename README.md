@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=FVvMSG-6dZ0"><img width="140px" src="https://i.ytimg.com/vi/FVvMSG-6dZ0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=OVlsIX7FV9k"><img width="140px" src="https://i.ytimg.com/vi/OVlsIX7FV9k/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OVlsIX7FV9k">Por onde andam aquelas tirinhas de programação que eu gostava tanto??</a><br/>Jul 5, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=FVvMSG-6dZ0"><img width="140px" src="https://i.ytimg.com/vi/FVvMSG-6dZ0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FVvMSG-6dZ0">Do Zero ao Full Stack - Aula 02 - Por que usar uma linguagem de programação?</a><br/>Jul 4, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=dt52oU3ndAY"><img width="140px" src="https://i.ytimg.com/vi/dt52oU3ndAY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dt52oU3ndAY">Oh, sheet! Aula 2 - Fórmulas e referências!</a><br/>Jul 1, 2024</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=S0W5e-cBVTE">Do Zero ao Full Stack - Aula 01 - Aprendendo a programar!</a><br/>Jun 27, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=V1cAklNi55A"><img width="140px" src="https://i.ytimg.com/vi/V1cAklNi55A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=V1cAklNi55A">Oh, sheet! Aula 1 - Visão básica sobre as planilhas e o ambiente</a><br/>Jun 24, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=qJPVrn4aTSs"><img width="140px" src="https://i.ytimg.com/vi/qJPVrn4aTSs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=qJPVrn4aTSs">DevCreU: A universidade criativa do desenvolvedor!</a><br/>Jun 12, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
