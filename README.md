@@ -32,11 +32,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <a href="https://developerslife.tech/en/2022/05/30/new-branch/"><img src="https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png" style="width:500px" alt="Web comic: New branch" /></a>
 
 ### Últimas publicações
-<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2024/07/04/full-stack-aula-002/">Do Zero ao Full Stack - Aula 02 - Por que usar uma linguagem de programação?</a><br/>Thu Jul 04 2024 7:07 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/07/04/oh-sheet-aula-002/">Oh, sheet! Aula 2 - Fórmulas e referências!</a><br/>Thu Jul 04 2024 7:05 PM</li></ul>
-<ul><li>💥 <a href="https://developerslife.tech/pt/2024/07/04/full-stack-aula-001/">Do Zero ao Full Stack - Aula 01 - Aprendendo a programar!</a><br/>Thu Jul 04 2024 7:03 PM</li></ul>
-<ul><li>💬 <a href="https://developerslife.tech/pt/2024/07/04/oh-sheet-aula-001/">Oh, sheet! Aula 1 - Visão básica sobre as planilhas e o ambiente</a><br/>Thu Jul 04 2024 6:59 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/06/19/esqueci-a-senha/">Esqueci a senha</a><br/>Wed Jun 19 2024 10:41 AM</li></ul>
+<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2024/07/05/por-onde-andam-aquelas-tirinhas/">Por onde andam aquelas tirinhas de programação que eu gostava tanto??</a><br/>Fri Jul 05 2024 5:31 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/07/04/full-stack-aula-002/">Do Zero ao Full Stack - Aula 02 - Por que usar uma linguagem de programação?</a><br/>Thu Jul 04 2024 7:07 PM</li></ul>
+<ul><li>💥 <a href="https://developerslife.tech/pt/2024/07/04/oh-sheet-aula-002/">Oh, sheet! Aula 2 - Fórmulas e referências!</a><br/>Thu Jul 04 2024 7:05 PM</li></ul>
+<ul><li>💬 <a href="https://developerslife.tech/pt/2024/07/04/full-stack-aula-001/">Do Zero ao Full Stack - Aula 01 - Aprendendo a programar!</a><br/>Thu Jul 04 2024 7:03 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/07/04/oh-sheet-aula-001/">Oh, sheet! Aula 1 - Visão básica sobre as planilhas e o ambiente</a><br/>Thu Jul 04 2024 6:59 PM</li></ul>
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
