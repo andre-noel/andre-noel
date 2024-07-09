@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=SJwAU_uhtEw"><img width="140px" src="https://i.ytimg.com/vi/SJwAU_uhtEw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aPS8u0XONNw"><img width="140px" src="https://i.ytimg.com/vi/aPS8u0XONNw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=aPS8u0XONNw">Você sabe o que SIGNIFICA essa camiseta?? #desenvolvedores #desenvolvimento</a><br/>Jul 9, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=SJwAU_uhtEw"><img width="140px" src="https://i.ytimg.com/vi/SJwAU_uhtEw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SJwAU_uhtEw">Oh, sheet! Aula 3 - Formatos de dados, funções e formatação condicional</a><br/>Jul 8, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=OVlsIX7FV9k"><img width="140px" src="https://i.ytimg.com/vi/OVlsIX7FV9k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OVlsIX7FV9k">Por onde andam aquelas tirinhas de programação que eu gostava tanto??</a><br/>Jul 5, 2024</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=FVvMSG-6dZ0">Do Zero ao Full Stack - Aula 02 - Por que usar uma linguagem de programação?</a><br/>Jul 4, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=dt52oU3ndAY"><img width="140px" src="https://i.ytimg.com/vi/dt52oU3ndAY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dt52oU3ndAY">Oh, sheet! Aula 2 - Fórmulas e referências!</a><br/>Jul 1, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=S0W5e-cBVTE"><img width="140px" src="https://i.ytimg.com/vi/S0W5e-cBVTE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=S0W5e-cBVTE">Do Zero ao Full Stack - Aula 01 - Aprendendo a programar!</a><br/>Jun 27, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
