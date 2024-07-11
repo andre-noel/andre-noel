@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7MYR6h04M2M"><img width="140px" src="https://i.ytimg.com/vi/7MYR6h04M2M/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_p6aR48FyyU"><img width="140px" src="https://i.ytimg.com/vi/_p6aR48FyyU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_p6aR48FyyU">Do Zero ao Full Stack - Aula 03 - Arquitetura cliente-servidor e configuração do ambiente</a><br/>Jul 11, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=7MYR6h04M2M"><img width="140px" src="https://i.ytimg.com/vi/7MYR6h04M2M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7MYR6h04M2M">A LOJINHA já está na Campus Party!! Dia 12 tem minha palestra lá!!</a><br/>Jul 10, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=aPS8u0XONNw"><img width="140px" src="https://i.ytimg.com/vi/aPS8u0XONNw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aPS8u0XONNw">Você sabe o que SIGNIFICA essa camiseta?? #desenvolvedores #desenvolvimento</a><br/>Jul 9, 2024</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=SJwAU_uhtEw">Oh, sheet! Aula 3 - Formatos de dados, funções e formatação condicional</a><br/>Jul 8, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=OVlsIX7FV9k"><img width="140px" src="https://i.ytimg.com/vi/OVlsIX7FV9k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OVlsIX7FV9k">Por onde andam aquelas tirinhas de programação que eu gostava tanto??</a><br/>Jul 5, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=FVvMSG-6dZ0"><img width="140px" src="https://i.ytimg.com/vi/FVvMSG-6dZ0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FVvMSG-6dZ0">Do Zero ao Full Stack - Aula 02 - Por que usar uma linguagem de programação?</a><br/>Jul 4, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
