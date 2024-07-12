@@ -32,11 +32,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <a href="https://developerslife.tech/en/2022/05/30/new-branch/"><img src="https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png" style="width:500px" alt="Web comic: New branch" /></a>
 
 ### Últimas publicações
-<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2024/07/09/a-verdade-sobre-os-design-patterns/">A verdade sobre os design patterns</a><br/>Tue Jul 09 2024 5:45 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/07/08/oh-sheet-aula-003/">Oh, sheet! Aula 3 - Formatos de dados, funções e formatação condicional</a><br/>Mon Jul 08 2024 7:58 PM</li></ul>
-<ul><li>💥 <a href="https://developerslife.tech/pt/2024/07/05/por-onde-andam-aquelas-tirinhas/">Por onde andam aquelas tirinhas de programação que eu gostava tanto??</a><br/>Fri Jul 05 2024 5:31 PM</li></ul>
-<ul><li>💬 <a href="https://developerslife.tech/pt/2024/07/04/full-stack-aula-002/">Do Zero ao Full Stack - Aula 02 - Por que usar uma linguagem de programação?</a><br/>Thu Jul 04 2024 7:07 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/07/04/oh-sheet-aula-002/">Oh, sheet! Aula 2 - Fórmulas e referências!</a><br/>Thu Jul 04 2024 7:05 PM</li></ul>
+<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2024/07/12/full-stack-aula-003/">Do Zero ao Full Stack - Aula 03 - Arquitetura cliente-servidor e configuração do ambiente</a><br/>Fri Jul 12 2024 2:55 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/07/09/a-verdade-sobre-os-design-patterns/">A verdade sobre os design patterns</a><br/>Tue Jul 09 2024 5:45 PM</li></ul>
+<ul><li>💥 <a href="https://developerslife.tech/pt/2024/07/08/oh-sheet-aula-003/">Oh, sheet! Aula 3 - Formatos de dados, funções e formatação condicional</a><br/>Mon Jul 08 2024 7:58 PM</li></ul>
+<ul><li>💬 <a href="https://developerslife.tech/pt/2024/07/05/por-onde-andam-aquelas-tirinhas/">Por onde andam aquelas tirinhas de programação que eu gostava tanto??</a><br/>Fri Jul 05 2024 5:31 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/07/04/full-stack-aula-002/">Do Zero ao Full Stack - Aula 02 - Por que usar uma linguagem de programação?</a><br/>Thu Jul 04 2024 7:07 PM</li></ul>
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
