@@ -40,10 +40,10 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VvHcP3BH85s"><img width="140px" src="https://i.ytimg.com/vi/VvHcP3BH85s/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=DwuQUoIvMD4"><img width="140px" src="https://i.ytimg.com/vi/DwuQUoIvMD4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=DwuQUoIvMD4">Tirinhas e papo DEV!</a><br/>Jul 17, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=VvHcP3BH85s"><img width="140px" src="https://i.ytimg.com/vi/VvHcP3BH85s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VvHcP3BH85s">Oh, sheet! Aula 4 - Funções condicionais e controle de finanças</a><br/>Jul 15, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=DwuQUoIvMD4"><img width="140px" src="https://i.ytimg.com/vi/DwuQUoIvMD4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=DwuQUoIvMD4">Tirinhas e papo DEV!</a><br/>Jul 13, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_p6aR48FyyU"><img width="140px" src="https://i.ytimg.com/vi/_p6aR48FyyU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_p6aR48FyyU">Do Zero ao Full Stack - Aula 03 - Arquitetura cliente-servidor e configuração do ambiente</a><br/>Jul 11, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=7MYR6h04M2M"><img width="140px" src="https://i.ytimg.com/vi/7MYR6h04M2M/mqdefault.jpg"></a></td>
