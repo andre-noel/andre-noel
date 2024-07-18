@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=AbbYQsxge4Y"><img width="140px" src="https://i.ytimg.com/vi/AbbYQsxge4Y/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ejdcFdLmSbw"><img width="140px" src="https://i.ytimg.com/vi/ejdcFdLmSbw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ejdcFdLmSbw">Do Zero ao Full Stack - Aula 04 - Conhecendo o HTML e primeiras tags</a><br/>Jul 18, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=AbbYQsxge4Y"><img width="140px" src="https://i.ytimg.com/vi/AbbYQsxge4Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AbbYQsxge4Y">Vale a pena participar de EVENTOS de T.I.?</a><br/>Jul 17, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VvHcP3BH85s"><img width="140px" src="https://i.ytimg.com/vi/VvHcP3BH85s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VvHcP3BH85s">Oh, sheet! Aula 4 - Funções condicionais e controle de finanças</a><br/>Jul 15, 2024</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=_p6aR48FyyU">Do Zero ao Full Stack - Aula 03 - Arquitetura cliente-servidor e configuração do ambiente</a><br/>Jul 11, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=7MYR6h04M2M"><img width="140px" src="https://i.ytimg.com/vi/7MYR6h04M2M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7MYR6h04M2M">A LOJINHA já está na Campus Party!! Dia 12 tem minha palestra lá!!</a><br/>Jul 10, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=aPS8u0XONNw"><img width="140px" src="https://i.ytimg.com/vi/aPS8u0XONNw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=aPS8u0XONNw">Você sabe o que SIGNIFICA essa camiseta?? #desenvolvedores #desenvolvimento</a><br/>Jul 9, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
