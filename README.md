@@ -32,11 +32,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <a href="https://developerslife.tech/en/2022/05/30/new-branch/"><img src="https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png" style="width:500px" alt="Web comic: New branch" /></a>
 
 ### Últimas publicações
-<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2024/07/17/foi-de-nuvem/">Foi de nuvem!</a><br/>Wed Jul 17 2024 7:07 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/07/15/oh-sheet-aula-004/">Oh, sheet! Aula 4 - Funções condicionais e controle de finanças</a><br/>Mon Jul 15 2024 1:08 PM</li></ul>
-<ul><li>💥 <a href="https://developerslife.tech/pt/2024/07/12/migracao-de-carreira/">Migração de carreira</a><br/>Fri Jul 12 2024 5:49 PM</li></ul>
-<ul><li>💬 <a href="https://developerslife.tech/pt/2024/07/12/full-stack-aula-003/">Do Zero ao Full Stack - Aula 03 - Arquitetura cliente-servidor e configuração do ambiente</a><br/>Fri Jul 12 2024 2:55 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/07/09/a-verdade-sobre-os-design-patterns/">A verdade sobre os design patterns</a><br/>Tue Jul 09 2024 5:45 PM</li></ul>
+<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2024/07/19/tela-azul-da-morte-global/">Tela azul da morte global</a><br/>Fri Jul 19 2024 12:04 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/07/17/foi-de-nuvem/">Foi de nuvem!</a><br/>Wed Jul 17 2024 7:07 PM</li></ul>
+<ul><li>💥 <a href="https://developerslife.tech/pt/2024/07/15/oh-sheet-aula-004/">Oh, sheet! Aula 4 - Funções condicionais e controle de finanças</a><br/>Mon Jul 15 2024 1:08 PM</li></ul>
+<ul><li>💬 <a href="https://developerslife.tech/pt/2024/07/12/migracao-de-carreira/">Migração de carreira</a><br/>Fri Jul 12 2024 5:49 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/07/12/full-stack-aula-003/">Do Zero ao Full Stack - Aula 03 - Arquitetura cliente-servidor e configuração do ambiente</a><br/>Fri Jul 12 2024 2:55 PM</li></ul>
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
