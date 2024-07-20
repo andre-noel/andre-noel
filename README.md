@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=bIuHpCSVPPk"><img width="140px" src="https://i.ytimg.com/vi/bIuHpCSVPPk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_Uu_5g3cF1s"><img width="140px" src="https://i.ytimg.com/vi/_Uu_5g3cF1s/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_Uu_5g3cF1s">Tirinhas e papo DEV!</a><br/>Jul 20, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=bIuHpCSVPPk"><img width="140px" src="https://i.ytimg.com/vi/bIuHpCSVPPk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bIuHpCSVPPk">Piadas prontas sobre a tela azul do Windows #windows #bsod #crowdstrike</a><br/>Jul 20, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ejdcFdLmSbw"><img width="140px" src="https://i.ytimg.com/vi/ejdcFdLmSbw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ejdcFdLmSbw">Do Zero ao Full Stack - Aula 04 - Conhecendo o HTML e primeiras tags</a><br/>Jul 18, 2024</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=AbbYQsxge4Y">Vale a pena participar de EVENTOS de T.I.?</a><br/>Jul 17, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VvHcP3BH85s"><img width="140px" src="https://i.ytimg.com/vi/VvHcP3BH85s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VvHcP3BH85s">Oh, sheet! Aula 4 - Funções condicionais e controle de finanças</a><br/>Jul 15, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_p6aR48FyyU"><img width="140px" src="https://i.ytimg.com/vi/_p6aR48FyyU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_p6aR48FyyU">Do Zero ao Full Stack - Aula 03 - Arquitetura cliente-servidor e configuração do ambiente</a><br/>Jul 11, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
