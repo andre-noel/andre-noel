@@ -40,10 +40,10 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cfk7ZqeGsIw"><img width="140px" src="https://i.ytimg.com/vi/cfk7ZqeGsIw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_Uu_5g3cF1s"><img width="140px" src="https://i.ytimg.com/vi/_Uu_5g3cF1s/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_Uu_5g3cF1s">Tirinhas e papo DEV!</a><br/>Jul 24, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=cfk7ZqeGsIw"><img width="140px" src="https://i.ytimg.com/vi/cfk7ZqeGsIw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cfk7ZqeGsIw">Oh, sheet! Aula 5 - Gráficos e automatização de soma de gastos</a><br/>Jul 22, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_Uu_5g3cF1s"><img width="140px" src="https://i.ytimg.com/vi/_Uu_5g3cF1s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_Uu_5g3cF1s">Tirinhas e papo DEV!</a><br/>Jul 20, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=bIuHpCSVPPk"><img width="140px" src="https://i.ytimg.com/vi/bIuHpCSVPPk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bIuHpCSVPPk">Piadas prontas sobre a tela azul do Windows #windows #bsod #crowdstrike</a><br/>Jul 20, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ejdcFdLmSbw"><img width="140px" src="https://i.ytimg.com/vi/ejdcFdLmSbw/mqdefault.jpg"></a></td>
