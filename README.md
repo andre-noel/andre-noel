@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kGDwtj0ORIs"><img width="140px" src="https://i.ytimg.com/vi/kGDwtj0ORIs/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xVld1q4URwc"><img width="140px" src="https://i.ytimg.com/vi/xVld1q4URwc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xVld1q4URwc">Fique também com a pilha cheia aprendendo a programar! #cursos #dev #fullstack</a><br/>Jul 27, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=kGDwtj0ORIs"><img width="140px" src="https://i.ytimg.com/vi/kGDwtj0ORIs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kGDwtj0ORIs">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 05 - Estruturando o documento HTML</a><br/>Jul 25, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZIJCpSaJxes"><img width="140px" src="https://i.ytimg.com/vi/ZIJCpSaJxes/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZIJCpSaJxes">Acompanhe nosso curso de programação aberto! Daqui a pouco sai a aula 5!!</a><br/>Jul 25, 2024</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=fapBQYWLfgs">O que significa HTML? #dev #fullstack #desenvolvimento</a><br/>Jul 24, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cfk7ZqeGsIw"><img width="140px" src="https://i.ytimg.com/vi/cfk7ZqeGsIw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cfk7ZqeGsIw">Oh, sheet! Aula 5 - Gráficos e automatização de soma de gastos</a><br/>Jul 22, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=bIuHpCSVPPk"><img width="140px" src="https://i.ytimg.com/vi/bIuHpCSVPPk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=bIuHpCSVPPk">Piadas prontas sobre a tela azul do Windows #windows #bsod #crowdstrike</a><br/>Jul 20, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
