@@ -41,7 +41,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sDouGsfophY"><img width="140px" src="https://i.ytimg.com/vi/sDouGsfophY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sDouGsfophY">Oh, sheet! Aula 6 - Filtros, UNIQUE, Dropdown e o famoso PROCV</a><br/>Jul 29, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=sDouGsfophY">Oh, sheet! Aula 6 - Filtros, UNIQUE, Dropdown e o famoso PROCV</a><br/>Jul 30, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xVld1q4URwc"><img width="140px" src="https://i.ytimg.com/vi/xVld1q4URwc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xVld1q4URwc">Fique também com a pilha cheia aprendendo a programar! #cursos #dev #fullstack</a><br/>Jul 27, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=kGDwtj0ORIs"><img width="140px" src="https://i.ytimg.com/vi/kGDwtj0ORIs/mqdefault.jpg"></a></td>
