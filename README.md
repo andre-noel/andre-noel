@@ -32,11 +32,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <a href="https://developerslife.tech/en/2022/05/30/new-branch/"><img src="https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png" style="width:500px" alt="Web comic: New branch" /></a>
 
 ### Últimas publicações
-<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2024/07/26/quem-foi/">Quem foi?</a><br/>Fri Jul 26 2024 1:54 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/07/23/a-sabedoria-do-cto/">A sabedoria do CTO</a><br/>Tue Jul 23 2024 11:51 AM</li></ul>
-<ul><li>💥 <a href="https://developerslife.tech/pt/2024/07/19/tela-azul-da-morte-global/">Tela azul da morte global</a><br/>Fri Jul 19 2024 12:04 PM</li></ul>
-<ul><li>💬 <a href="https://developerslife.tech/pt/2024/07/17/foi-de-nuvem/">Foi de nuvem!</a><br/>Wed Jul 17 2024 7:07 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/07/15/oh-sheet-aula-004/">Oh, sheet! Aula 4 - Funções condicionais e controle de finanças</a><br/>Mon Jul 15 2024 1:08 PM</li></ul>
+<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2024/08/02/oh-sheet-aula-005/">Oh, sheet! Aula 5 - Gráficos e automatização de soma de gastos</a><br/>Fri Aug 02 2024 1:44 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/08/02/full-stack-aula-004/">Do Zero ao Full Stack - Aula 04 - Conhecendo o HTML e primeiras tags</a><br/>Fri Aug 02 2024 1:42 PM</li></ul>
+<ul><li>💥 <a href="https://developerslife.tech/pt/2024/07/26/quem-foi/">Quem foi?</a><br/>Fri Jul 26 2024 1:54 PM</li></ul>
+<ul><li>💬 <a href="https://developerslife.tech/pt/2024/07/23/a-sabedoria-do-cto/">A sabedoria do CTO</a><br/>Tue Jul 23 2024 11:51 AM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/07/19/tela-azul-da-morte-global/">Tela azul da morte global</a><br/>Fri Jul 19 2024 12:04 PM</li></ul>
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
