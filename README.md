@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=TyqWhaSntcU"><img width="140px" src="https://i.ytimg.com/vi/TyqWhaSntcU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=f3hax-8JtV4"><img width="140px" src="https://i.ytimg.com/vi/f3hax-8JtV4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=f3hax-8JtV4">O dia em que o Mano Deyvin virou tirinha!! #dev #tirinha #manodeyvin</a><br/>Aug 2, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=TyqWhaSntcU"><img width="140px" src="https://i.ytimg.com/vi/TyqWhaSntcU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TyqWhaSntcU">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 06 - Inserindo imagens e começando com CSS</a><br/>Aug 1, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ysSOtFqYBvw"><img width="140px" src="https://i.ytimg.com/vi/ysSOtFqYBvw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ysSOtFqYBvw">Oh, sheet! Aula 6 - Filtros, UNIQUE, Dropdown e o famoso PROCV</a><br/>Jul 31, 2024</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=xVld1q4URwc">Fique também com a pilha cheia aprendendo a programar! #cursos #dev #fullstack</a><br/>Jul 27, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=kGDwtj0ORIs"><img width="140px" src="https://i.ytimg.com/vi/kGDwtj0ORIs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kGDwtj0ORIs">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 05 - Estruturando o documento HTML</a><br/>Jul 25, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ZIJCpSaJxes"><img width="140px" src="https://i.ytimg.com/vi/ZIJCpSaJxes/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ZIJCpSaJxes">Acompanhe nosso curso de programação aberto! Daqui a pouco sai a aula 5!!</a><br/>Jul 25, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
