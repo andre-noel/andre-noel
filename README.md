@@ -32,11 +32,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <a href="https://developerslife.tech/en/2022/05/30/new-branch/"><img src="https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png" style="width:500px" alt="Web comic: New branch" /></a>
 
 ### Últimas publicações
-<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2024/08/02/liberacao-de-documentos-bloqueados/">Liberação de Documentos Bloqueados</a><br/>Fri Aug 02 2024 1:58 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/08/02/full-stack-aula-006/">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 06 - Inserindo imagens e começando com CSS</a><br/>Fri Aug 02 2024 1:51 PM</li></ul>
-<ul><li>💥 <a href="https://developerslife.tech/pt/2024/08/02/oh-sheet-aula-006/">Oh, sheet! Aula 6 - Filtros, UNIQUE, Dropdown e o famoso PROCV</a><br/>Fri Aug 02 2024 1:48 PM</li></ul>
-<ul><li>💬 <a href="https://developerslife.tech/pt/2024/08/02/full-stack-aula-005/">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 05 - Estruturando o documento HTML</a><br/>Fri Aug 02 2024 1:46 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/08/02/oh-sheet-aula-005/">Oh, sheet! Aula 5 - Gráficos e automatização de soma de gastos</a><br/>Fri Aug 02 2024 1:44 PM</li></ul>
+<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2024/08/05/oh-sheet-aula-007/">Oh, sheet! Aula 7 - PROCV e PROCX</a><br/>Mon Aug 05 2024 2:58 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/08/02/liberacao-de-documentos-bloqueados/">Liberação de Documentos Bloqueados</a><br/>Fri Aug 02 2024 1:58 PM</li></ul>
+<ul><li>💥 <a href="https://developerslife.tech/pt/2024/08/02/full-stack-aula-006/">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 06 - Inserindo imagens e começando com CSS</a><br/>Fri Aug 02 2024 1:51 PM</li></ul>
+<ul><li>💬 <a href="https://developerslife.tech/pt/2024/08/02/oh-sheet-aula-006/">Oh, sheet! Aula 6 - Filtros, UNIQUE, Dropdown e o famoso PROCV</a><br/>Fri Aug 02 2024 1:48 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/08/02/full-stack-aula-005/">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 05 - Estruturando o documento HTML</a><br/>Fri Aug 02 2024 1:46 PM</li></ul>
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
