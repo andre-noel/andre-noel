@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rW8HLaV1epI"><img width="140px" src="https://i.ytimg.com/vi/rW8HLaV1epI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HJt3Q0YHxKo"><img width="140px" src="https://i.ytimg.com/vi/HJt3Q0YHxKo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=HJt3Q0YHxKo">Oh, sheet! Aula 8 - Funções para manipulação de TEXTO</a><br/>Aug 12, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=rW8HLaV1epI"><img width="140px" src="https://i.ytimg.com/vi/rW8HLaV1epI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rW8HLaV1epI">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 07 - Entendendo seletores CSS</a><br/>Aug 8, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qpKHbcu5JYU"><img width="140px" src="https://i.ytimg.com/vi/qpKHbcu5JYU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qpKHbcu5JYU">Oh, sheet! Aula 7 - PROCV e PROCX</a><br/>Aug 5, 2024</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=f3hax-8JtV4">O dia em que o Mano Deyvin virou tirinha!! #dev #tirinha #manodeyvin</a><br/>Aug 2, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=TyqWhaSntcU"><img width="140px" src="https://i.ytimg.com/vi/TyqWhaSntcU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TyqWhaSntcU">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 06 - Inserindo imagens e começando com CSS</a><br/>Aug 1, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ysSOtFqYBvw"><img width="140px" src="https://i.ytimg.com/vi/ysSOtFqYBvw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ysSOtFqYBvw">Oh, sheet! Aula 6 - Filtros, UNIQUE, Dropdown e o famoso PROCV</a><br/>Jul 31, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
