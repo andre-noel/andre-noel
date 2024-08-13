@@ -41,7 +41,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HJt3Q0YHxKo"><img width="140px" src="https://i.ytimg.com/vi/HJt3Q0YHxKo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=HJt3Q0YHxKo">Oh, sheet! Aula 8 - Funções para manipulação de TEXTO</a><br/>Aug 12, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=HJt3Q0YHxKo">Oh, sheet! Aula 8 - Funções para manipulação de TEXTO</a><br/>Aug 13, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rW8HLaV1epI"><img width="140px" src="https://i.ytimg.com/vi/rW8HLaV1epI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rW8HLaV1epI">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 07 - Entendendo seletores CSS</a><br/>Aug 8, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qpKHbcu5JYU"><img width="140px" src="https://i.ytimg.com/vi/qpKHbcu5JYU/mqdefault.jpg"></a></td>
