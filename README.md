@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=a_3nnS1DFJU"><img width="140px" src="https://i.ytimg.com/vi/a_3nnS1DFJU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xi_jaiad70M"><img width="140px" src="https://i.ytimg.com/vi/xi_jaiad70M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xi_jaiad70M">Aprenda a programar pra web DI GRÁTIS!!</a><br/>Aug 16, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=a_3nnS1DFJU"><img width="140px" src="https://i.ytimg.com/vi/a_3nnS1DFJU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=a_3nnS1DFJU">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 08 - Seletores CSS Avançados</a><br/>Aug 15, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=HJt3Q0YHxKo"><img width="140px" src="https://i.ytimg.com/vi/HJt3Q0YHxKo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HJt3Q0YHxKo">Oh, sheet! Aula 8 - Funções para manipulação de TEXTO</a><br/>Aug 13, 2024</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=rW8HLaV1epI">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 07 - Entendendo seletores CSS</a><br/>Aug 8, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qpKHbcu5JYU"><img width="140px" src="https://i.ytimg.com/vi/qpKHbcu5JYU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qpKHbcu5JYU">Oh, sheet! Aula 7 - PROCV e PROCX</a><br/>Aug 5, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=f3hax-8JtV4"><img width="140px" src="https://i.ytimg.com/vi/f3hax-8JtV4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=f3hax-8JtV4">O dia em que o Mano Deyvin virou tirinha!! #dev #tirinha #manodeyvin</a><br/>Aug 2, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
