@@ -41,7 +41,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vTKHc4mfgjY"><img width="140px" src="https://i.ytimg.com/vi/vTKHc4mfgjY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=vTKHc4mfgjY">Oh, sheet! Aula 9 - Funções para DATA e HORA</a><br/>Aug 19, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=vTKHc4mfgjY">Oh, sheet! Aula 9 - Funções para DATA e HORA</a><br/>Aug 20, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=RyRqjzqOZnQ"><img width="140px" src="https://i.ytimg.com/vi/RyRqjzqOZnQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RyRqjzqOZnQ">O que eu, Guanabara e Silvio Santos temos em comum?? Tá lá no podcast do @CursoemVideoCortes</a><br/>Aug 17, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xi_jaiad70M"><img width="140px" src="https://i.ytimg.com/vi/xi_jaiad70M/mqdefault.jpg"></a></td>
