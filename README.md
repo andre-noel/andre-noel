@@ -41,7 +41,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=RDqbnTpSeo4"><img width="140px" src="https://i.ytimg.com/vi/RDqbnTpSeo4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=RDqbnTpSeo4">Oh, sheet! Aula 10 - Tabelas dinâmicas para ANÁLISE DE DADOS</a><br/>Aug 26, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=RDqbnTpSeo4">Oh, sheet! Aula 10 - Tabelas dinâmicas para ANÁLISE DE DADOS</a><br/>Aug 27, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vFTLa_AOEP8"><img width="140px" src="https://i.ytimg.com/vi/vFTLa_AOEP8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vFTLa_AOEP8">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 09 - Flexbox - Parte 1</a><br/>Aug 22, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vTKHc4mfgjY"><img width="140px" src="https://i.ytimg.com/vi/vTKHc4mfgjY/mqdefault.jpg"></a></td>
