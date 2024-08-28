@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=RDqbnTpSeo4"><img width="140px" src="https://i.ytimg.com/vi/RDqbnTpSeo4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=b5S4kj8DFKs"><img width="140px" src="https://i.ytimg.com/vi/b5S4kj8DFKs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=b5S4kj8DFKs">Crie seu FRONT-END através de uma IA via prompt!</a><br/>Aug 28, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=RDqbnTpSeo4"><img width="140px" src="https://i.ytimg.com/vi/RDqbnTpSeo4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RDqbnTpSeo4">Oh, sheet! Aula 10 - Tabelas dinâmicas para ANÁLISE DE DADOS</a><br/>Aug 27, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vFTLa_AOEP8"><img width="140px" src="https://i.ytimg.com/vi/vFTLa_AOEP8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vFTLa_AOEP8">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 09 - Flexbox - Parte 1</a><br/>Aug 22, 2024</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=vTKHc4mfgjY">Oh, sheet! Aula 9 - Funções para DATA e HORA</a><br/>Aug 20, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=RyRqjzqOZnQ"><img width="140px" src="https://i.ytimg.com/vi/RyRqjzqOZnQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RyRqjzqOZnQ">O que eu, Guanabara e Silvio Santos temos em comum?? Tá lá no podcast do @CursoemVideoCortes</a><br/>Aug 17, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=xi_jaiad70M"><img width="140px" src="https://i.ytimg.com/vi/xi_jaiad70M/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xi_jaiad70M">Aprenda a programar pra web DI GRÁTIS!!</a><br/>Aug 16, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
