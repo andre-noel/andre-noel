@@ -32,11 +32,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <a href="https://developerslife.tech/en/2022/05/30/new-branch/"><img src="https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png" style="width:500px" alt="Web comic: New branch" /></a>
 
 ### Últimas publicações
-<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2024/08/29/full-stack-aula-010/">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 10 - Flexbox - Parte 2</a><br/>Thu Aug 29 2024 5:49 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/08/29/oh-sheet-aula-010/">Oh, sheet! Aula 10 - Tabelas dinâmicas para ANÁLISE DE DADOS</a><br/>Thu Aug 29 2024 5:29 AM</li></ul>
-<ul><li>💥 <a href="https://developerslife.tech/pt/2024/08/29/full-stack-aula-009/">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 09 - Flexbox - Parte 1</a><br/>Thu Aug 29 2024 5:26 AM</li></ul>
-<ul><li>💬 <a href="https://developerslife.tech/pt/2024/08/29/oh-sheet-aula-009/">Oh, sheet! Aula 9 - Funções para DATA e HORA</a><br/>Thu Aug 29 2024 5:24 AM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/08/29/full-stack-aula-008/">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 08 - Seletores CSS Avançados</a><br/>Thu Aug 29 2024 5:22 AM</li></ul>
+<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2024/08/30/tudo-num-lugar-so/">Tudo num lugar só!</a><br/>Fri Aug 30 2024 6:18 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/08/29/full-stack-aula-010/">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 10 - Flexbox - Parte 2</a><br/>Thu Aug 29 2024 5:49 PM</li></ul>
+<ul><li>💥 <a href="https://developerslife.tech/pt/2024/08/29/oh-sheet-aula-010/">Oh, sheet! Aula 10 - Tabelas dinâmicas para ANÁLISE DE DADOS</a><br/>Thu Aug 29 2024 5:29 AM</li></ul>
+<ul><li>💬 <a href="https://developerslife.tech/pt/2024/08/29/full-stack-aula-009/">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 09 - Flexbox - Parte 1</a><br/>Thu Aug 29 2024 5:26 AM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/08/29/oh-sheet-aula-009/">Oh, sheet! Aula 9 - Funções para DATA e HORA</a><br/>Thu Aug 29 2024 5:24 AM</li></ul>
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
