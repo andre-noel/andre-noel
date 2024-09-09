@@ -40,9 +40,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kL3PgsgNZEE"><img width="140px" src="https://i.ytimg.com/vi/kL3PgsgNZEE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kL3PgsgNZEE">Oh, sheet! Aula 11 - PROTEÇÃO e Validação de Dados</a><br/>Sep 9, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=R2-Oz03GVyA"><img width="140px" src="https://i.ytimg.com/vi/R2-Oz03GVyA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=R2-Oz03GVyA"><img width="140px" src="https://i.ytimg.com/vi/R2-Oz03GVyA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=R2-Oz03GVyA">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 10 - Flexbox - Parte 2</a><br/>Aug 29, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=b5S4kj8DFKs"><img width="140px" src="https://i.ytimg.com/vi/b5S4kj8DFKs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=b5S4kj8DFKs">Crie seu FRONT-END através de uma IA via prompt!</a><br/>Aug 28, 2024</td></tr></table>
@@ -50,6 +48,8 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=RDqbnTpSeo4">Oh, sheet! Aula 10 - Tabelas dinâmicas para ANÁLISE DE DADOS</a><br/>Aug 27, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vFTLa_AOEP8"><img width="140px" src="https://i.ytimg.com/vi/vFTLa_AOEP8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vFTLa_AOEP8">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 09 - Flexbox - Parte 1</a><br/>Aug 22, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=vTKHc4mfgjY"><img width="140px" src="https://i.ytimg.com/vi/vTKHc4mfgjY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vTKHc4mfgjY">Oh, sheet! Aula 9 - Funções para DATA e HORA</a><br/>Aug 20, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
