@@ -41,7 +41,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=BGx9kWqGckY"><img width="140px" src="https://i.ytimg.com/vi/BGx9kWqGckY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BGx9kWqGckY">Tirinhas e papo DEV!</a><br/>Sep 10, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=BGx9kWqGckY">Tirinhas e papo DEV!</a><br/>Sep 11, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=R2-Oz03GVyA"><img width="140px" src="https://i.ytimg.com/vi/R2-Oz03GVyA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=R2-Oz03GVyA">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 10 - Flexbox - Parte 2</a><br/>Aug 29, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=b5S4kj8DFKs"><img width="140px" src="https://i.ytimg.com/vi/b5S4kj8DFKs/mqdefault.jpg"></a></td>
