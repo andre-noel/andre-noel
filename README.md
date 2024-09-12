@@ -32,11 +32,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <a href="https://developerslife.tech/en/2022/05/30/new-branch/"><img src="https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png" style="width:500px" alt="Web comic: New branch" /></a>
 
 ### Últimas publicações
-<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2024/09/05/alocado/">Alocado</a><br/>Thu Sep 05 2024 7:02 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/09/04/proatividade/">Proatividade</a><br/>Wed Sep 04 2024 6:50 PM</li></ul>
-<ul><li>💥 <a href="https://developerslife.tech/pt/2024/08/30/tudo-num-lugar-so/">Tudo num lugar só!</a><br/>Fri Aug 30 2024 6:18 PM</li></ul>
-<ul><li>💬 <a href="https://developerslife.tech/pt/2024/08/29/full-stack-aula-010/">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 10 - Flexbox - Parte 2</a><br/>Thu Aug 29 2024 5:49 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/08/29/oh-sheet-aula-010/">Oh, sheet! Aula 10 - Tabelas dinâmicas para ANÁLISE DE DADOS</a><br/>Thu Aug 29 2024 5:29 AM</li></ul>
+<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2024/09/12/full-stack-aula-011/">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 11 - Aplicando o CSS</a><br/>Thu Sep 12 2024 5:42 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/09/05/alocado/">Alocado</a><br/>Thu Sep 05 2024 7:02 PM</li></ul>
+<ul><li>💥 <a href="https://developerslife.tech/pt/2024/09/04/proatividade/">Proatividade</a><br/>Wed Sep 04 2024 6:50 PM</li></ul>
+<ul><li>💬 <a href="https://developerslife.tech/pt/2024/08/30/tudo-num-lugar-so/">Tudo num lugar só!</a><br/>Fri Aug 30 2024 6:18 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/08/29/full-stack-aula-010/">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 10 - Flexbox - Parte 2</a><br/>Thu Aug 29 2024 5:49 PM</li></ul>
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
