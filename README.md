@@ -32,11 +32,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <a href="https://developerslife.tech/en/2022/05/30/new-branch/"><img src="https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png" style="width:500px" alt="Web comic: New branch" /></a>
 
 ### Últimas publicações
-<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2024/09/13/setembro-amarelo/">Setembro Amarelo</a><br/>Fri Sep 13 2024 6:37 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/09/12/conflito/">Conflito</a><br/>Thu Sep 12 2024 5:47 PM</li></ul>
-<ul><li>💥 <a href="https://developerslife.tech/pt/2024/09/12/full-stack-aula-011/">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 11 - Aplicando o CSS</a><br/>Thu Sep 12 2024 5:42 PM</li></ul>
-<ul><li>💬 <a href="https://developerslife.tech/pt/2024/09/05/alocado/">Alocado</a><br/>Thu Sep 05 2024 7:02 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/09/04/proatividade/">Proatividade</a><br/>Wed Sep 04 2024 6:50 PM</li></ul>
+<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2024/09/16/oh-sheet-aula-011/">Oh, sheet! Aula 11 - PROTEÇÃO e Validação de Dados</a><br/>Mon Sep 16 2024 12:22 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/09/13/setembro-amarelo/">Setembro Amarelo</a><br/>Fri Sep 13 2024 6:37 PM</li></ul>
+<ul><li>💥 <a href="https://developerslife.tech/pt/2024/09/12/conflito/">Conflito</a><br/>Thu Sep 12 2024 5:47 PM</li></ul>
+<ul><li>💬 <a href="https://developerslife.tech/pt/2024/09/12/full-stack-aula-011/">Do Zero ao Todo Pilhado &lpar;Full Stack&rpar; - Aula 11 - Aplicando o CSS</a><br/>Thu Sep 12 2024 5:42 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/09/05/alocado/">Alocado</a><br/>Thu Sep 05 2024 7:02 PM</li></ul>
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
