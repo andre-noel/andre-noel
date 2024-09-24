@@ -41,7 +41,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Z52sgqaeuE0"><img width="140px" src="https://i.ytimg.com/vi/Z52sgqaeuE0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Z52sgqaeuE0">Oh, sheet! Aula 12 - Importação e exportação de dados em CSV</a><br/>Sep 23, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=Z52sgqaeuE0">Oh, sheet! Aula 12 - Importação e exportação de dados em CSV</a><br/>Sep 24, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=KijNdifKDE4"><img width="140px" src="https://i.ytimg.com/vi/KijNdifKDE4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KijNdifKDE4">Oh, sheet! Aula 11 - PROTEÇÃO e Validação de Dados</a><br/>Sep 16, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=UehDkmfPE3s"><img width="140px" src="https://i.ytimg.com/vi/UehDkmfPE3s/mqdefault.jpg"></a></td>
