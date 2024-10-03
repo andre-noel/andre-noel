@@ -40,8 +40,8 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=c7Ar6qDJBzI"><img width="140px" src="https://i.ytimg.com/vi/c7Ar6qDJBzI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=c7Ar6qDJBzI">TALKING TECH! Andre Noel e Gustavo Caetano conversando e comentando as fofocas tech da semana!</a><br/>Sep 29, 2024</td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=iwa_DIzP5aI"><img width="140px" src="https://i.ytimg.com/vi/iwa_DIzP5aI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=iwa_DIzP5aI">TALKING TECH! Andre Noel e Gustavo Caetano conversando e comentando as fofocas tech da semana!</a><br/>Oct 3, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Z52sgqaeuE0"><img width="140px" src="https://i.ytimg.com/vi/Z52sgqaeuE0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Z52sgqaeuE0">Oh, sheet! Aula 12 - Importação e exportação de dados em CSV</a><br/>Sep 24, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=KijNdifKDE4"><img width="140px" src="https://i.ytimg.com/vi/KijNdifKDE4/mqdefault.jpg"></a></td>
