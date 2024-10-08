@@ -41,7 +41,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=o0qMcLcmc7s"><img width="140px" src="https://i.ytimg.com/vi/o0qMcLcmc7s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=o0qMcLcmc7s">Oh, sheet! Aula 13 - Funções para mexer com dinheiro!</a><br/>Oct 7, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=o0qMcLcmc7s">Oh, sheet! Aula 13 - Funções para mexer com dinheiro!</a><br/>Oct 8, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=iwa_DIzP5aI"><img width="140px" src="https://i.ytimg.com/vi/iwa_DIzP5aI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iwa_DIzP5aI">TALKING TECH! Andre Noel e Gustavo Caetano conversando e comentando as fofocas tech da semana!</a><br/>Oct 4, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Z52sgqaeuE0"><img width="140px" src="https://i.ytimg.com/vi/Z52sgqaeuE0/mqdefault.jpg"></a></td>
