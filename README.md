@@ -41,7 +41,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mJuF1QP9i_c"><img width="140px" src="https://i.ytimg.com/vi/mJuF1QP9i_c/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mJuF1QP9i_c">TALKING TECH! Comentando as notícias de tecnologia da semana!</a><br/>Oct 10, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=mJuF1QP9i_c">TALKING TECH! Comentando as notícias de tecnologia da semana!</a><br/>Oct 11, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=o0qMcLcmc7s"><img width="140px" src="https://i.ytimg.com/vi/o0qMcLcmc7s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=o0qMcLcmc7s">Oh, sheet! Aula 13 - Funções para mexer com dinheiro!</a><br/>Oct 8, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=iwa_DIzP5aI"><img width="140px" src="https://i.ytimg.com/vi/iwa_DIzP5aI/mqdefault.jpg"></a></td>
