@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mJuF1QP9i_c"><img width="140px" src="https://i.ytimg.com/vi/mJuF1QP9i_c/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=y7bfH-SoPuQ"><img width="140px" src="https://i.ytimg.com/vi/y7bfH-SoPuQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=y7bfH-SoPuQ">Episódio #47 - Um FRONT que largou o BACK &lpar;feat. Diego Telles &quot;UnicornCoder&quot;&rpar;</a><br/>Oct 17, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mJuF1QP9i_c"><img width="140px" src="https://i.ytimg.com/vi/mJuF1QP9i_c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mJuF1QP9i_c">TALKING TECH! Comentando as notícias de tecnologia da semana!</a><br/>Oct 11, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=o0qMcLcmc7s"><img width="140px" src="https://i.ytimg.com/vi/o0qMcLcmc7s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=o0qMcLcmc7s">Oh, sheet! Aula 13 - Funções para mexer com dinheiro!</a><br/>Oct 8, 2024</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=iwa_DIzP5aI">TALKING TECH! Andre Noel e Gustavo Caetano conversando e comentando as fofocas tech da semana!</a><br/>Oct 4, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Z52sgqaeuE0"><img width="140px" src="https://i.ytimg.com/vi/Z52sgqaeuE0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Z52sgqaeuE0">Oh, sheet! Aula 12 - Importação e exportação de dados em CSV</a><br/>Sep 24, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=KijNdifKDE4"><img width="140px" src="https://i.ytimg.com/vi/KijNdifKDE4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KijNdifKDE4">Oh, sheet! Aula 11 - PROTEÇÃO e Validação de Dados</a><br/>Sep 16, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
