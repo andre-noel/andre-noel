@@ -54,6 +54,13 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos episódios no podcast
 <!-- PODCAST:START -->
+ #### - [Episódio #47 - Um FRONT que largou o BACK (feat. Diego Telles "UnicornCoder")](https://podcasters.spotify.com/pod/show/vidadeprogramador/episodes/Episdio-47---Um-FRONT-que-largou-o-BACK-feat--Diego-Telles-UnicornCoder-e2ppeea) 
+ <details><summary></summary> <p>Uma conversa bem bacana com o Diego Telles, mundialmente conhecido como o UnicornCoder. No episódio ele conta sobre como foi do back para o front, como começou a história do unicórnio, falou sobre a paixão por ensinar e muito mais...</p>
+<p><br /></p>
+<p>Apoie esse podcast supimpa em https://apoia.se/vidadeprogramador</p>
+ </details> 
+ <hr /> 
+
  #### - [Episódio #46 - DEV debaixo de microgerência não funciona direito (feat. Giovanni Bassi)](https://podcasters.spotify.com/pod/show/vidadeprogramador/episodes/Episdio-46---DEV-debaixo-de-microgerncia-no-funciona-direito-feat--Giovanni-Bassi-e29rkmp) 
  <details><summary></summary> <p>Uma conversa supimpa, gravada diretamente no TDC Business, junto com o podcast &quot;Tem Tempo Pra Pergunta?&quot;. Conversei com o Giovanni Bassi, que tem uma história muito legal de empreendedorismo e gestão, é um dos fundadores da Lambda3, que foi adquirida pelo grupo TIVIT.</p>
 <p><br></p>
@@ -96,12 +103,6 @@ Instagram: https://instagram.com/programadorreal<br></p>
 <p>Dá o play e aproveite!</p>
 <p>Links:</p>
 <p>Canal da Loiane: https://www.youtube.com/loianegroner</p>
- </details> 
- <hr /> 
-
- #### - [Episódio #43 - A arte de trabalhar com dados e vários maus exemplos! (feat. Dani Monteiro)](https://podcasters.spotify.com/pod/show/vidadeprogramador/episodes/Episdio-43---A-arte-de-trabalhar-com-dados-e-vrios-maus-exemplos--feat--Dani-Monteiro-e1kpu2i) 
- <details><summary></summary> <p>Uma conversa gostosa com a Dani Monteiro, que manda muito bem na engenharia de dados, onde conversamos sobre dados, mas principalmente sobre vários maus exemplos para relaxar e compartilhar com o mundo essa dor :D</p>
-<p>Perfil da Dani: https://www.linkedin.com/in/danimonteirodba/</p>
  </details> 
  <hr /> 
 <!-- PODCAST:END -->
