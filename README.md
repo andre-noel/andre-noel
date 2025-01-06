@@ -32,11 +32,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <a href="https://developerslife.tech/en/2022/05/30/new-branch/"><img src="https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png" style="width:500px" alt="Web comic: New branch" /></a>
 
 ### Últimas publicações
-<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2025/01/03/strong/">Strong!</a><br/>Fri Jan 03 2025 7:00 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2025/01/02/linhas-de-codigo/">Linhas de código</a><br/>Thu Jan 02 2025 12:56 PM</li></ul>
-<ul><li>💥 <a href="https://developerslife.tech/pt/2025/01/01/feliz-2025/">Feliz 2025!</a><br/>Wed Jan 01 2025 9:40 PM</li></ul>
-<ul><li>💬 <a href="https://developerslife.tech/pt/2024/10/18/capitalismo/">Capitalismo</a><br/>Fri Oct 18 2024 6:04 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/10/17/vagas-na-gringa/">Vagas na Gringa</a><br/>Thu Oct 17 2024 4:39 PM</li></ul>
+<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2025/01/06/podemos-usar-jquery/">Podemos usar jQuery</a><br/>Mon Jan 06 2025 10:00 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2025/01/03/strong/">Strong!</a><br/>Fri Jan 03 2025 7:00 PM</li></ul>
+<ul><li>💥 <a href="https://developerslife.tech/pt/2025/01/02/linhas-de-codigo/">Linhas de código</a><br/>Thu Jan 02 2025 12:56 PM</li></ul>
+<ul><li>💬 <a href="https://developerslife.tech/pt/2025/01/01/feliz-2025/">Feliz 2025!</a><br/>Wed Jan 01 2025 9:40 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2024/10/18/capitalismo/">Capitalismo</a><br/>Fri Oct 18 2024 6:04 PM</li></ul>
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
