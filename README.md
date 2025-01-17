@@ -32,11 +32,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <a href="https://developerslife.tech/en/2022/05/30/new-branch/"><img src="https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png" style="width:500px" alt="Web comic: New branch" /></a>
 
 ### Últimas publicações
-<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2025/01/14/muito-lento/">Muito lento</a><br/>Tue Jan 14 2025 8:19 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2025/01/10/mudancas-na-meta/">Mudanças na Meta</a><br/>Fri Jan 10 2025 8:19 PM</li></ul>
-<ul><li>💥 <a href="https://developerslife.tech/pt/2025/01/09/erro-no-cliente/">Erro no cliente</a><br/>Thu Jan 09 2025 10:29 PM</li></ul>
-<ul><li>💬 <a href="https://developerslife.tech/pt/2025/01/07/erro-pneumatico/">Erro pneumático</a><br/>Tue Jan 07 2025 8:46 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2025/01/06/podemos-usar-jquery/">Podemos usar jQuery</a><br/>Mon Jan 06 2025 10:00 PM</li></ul>
+<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2025/01/17/code-review/">Code Review</a><br/>Fri Jan 17 2025 2:44 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2025/01/14/muito-lento/">Muito lento</a><br/>Tue Jan 14 2025 8:19 PM</li></ul>
+<ul><li>💥 <a href="https://developerslife.tech/pt/2025/01/10/mudancas-na-meta/">Mudanças na Meta</a><br/>Fri Jan 10 2025 8:19 PM</li></ul>
+<ul><li>💬 <a href="https://developerslife.tech/pt/2025/01/09/erro-no-cliente/">Erro no cliente</a><br/>Thu Jan 09 2025 10:29 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2025/01/07/erro-pneumatico/">Erro pneumático</a><br/>Tue Jan 07 2025 8:46 PM</li></ul>
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
