@@ -41,7 +41,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=S-p0gov3d9o"><img width="140px" src="https://i.ytimg.com/vi/S-p0gov3d9o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=S-p0gov3d9o">Lançamento TDC Community + TDC Talks: Um mergulho no Deepseek 🐋</a><br/>Mar 17, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=S-p0gov3d9o">Lançamento TDC Community + TDC Talks: Um mergulho no Deepseek 🐋</a><br/>Mar 18, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=y7bfH-SoPuQ"><img width="140px" src="https://i.ytimg.com/vi/y7bfH-SoPuQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=y7bfH-SoPuQ">Episódio #47 - Um FRONT que largou o BACK &lpar;feat. Diego Telles &quot;UnicornCoder&quot;&rpar;</a><br/>Oct 17, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=o0qMcLcmc7s"><img width="140px" src="https://i.ytimg.com/vi/o0qMcLcmc7s/mqdefault.jpg"></a></td>
