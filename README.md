@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aFlOWZM30k0"><img width="140px" src="https://i.ytimg.com/vi/aFlOWZM30k0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=nZE9VXuMlps"><img width="140px" src="https://i.ytimg.com/vi/nZE9VXuMlps/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=nZE9VXuMlps">Menos Modelagem, Mais Engenho: A Era do Prompt | TDC Talks com Ricardo Pupo Larguesa</a><br/>Mar 31, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=aFlOWZM30k0"><img width="140px" src="https://i.ytimg.com/vi/aFlOWZM30k0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aFlOWZM30k0">Conheçam o Amazon Nova, o LLM da Amazon | TDC Talks com Daniel Abib</a><br/>Mar 25, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=S-p0gov3d9o"><img width="140px" src="https://i.ytimg.com/vi/S-p0gov3d9o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=S-p0gov3d9o">Lançamento TDC Community + TDC Talks: Um mergulho no Deepseek 🐋</a><br/>Mar 18, 2025</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=y7bfH-SoPuQ">Episódio #47 - Um FRONT que largou o BACK &lpar;feat. Diego Telles &quot;UnicornCoder&quot;&rpar;</a><br/>Oct 17, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=o0qMcLcmc7s"><img width="140px" src="https://i.ytimg.com/vi/o0qMcLcmc7s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=o0qMcLcmc7s">Oh, sheet! Aula 13 - Funções para mexer com dinheiro!</a><br/>Oct 8, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Z52sgqaeuE0"><img width="140px" src="https://i.ytimg.com/vi/Z52sgqaeuE0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Z52sgqaeuE0">Oh, sheet! Aula 12 - Importação e exportação de dados em CSV</a><br/>Sep 24, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
