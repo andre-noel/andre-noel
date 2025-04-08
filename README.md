@@ -41,7 +41,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yvLsWZ9Z7aU"><img width="140px" src="https://i.ytimg.com/vi/yvLsWZ9Z7aU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=yvLsWZ9Z7aU">O futuro &lpar;presente&rpar; da IA é OpenSource! | TDC Community Talks com Alan Braz</a><br/>Apr 7, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=yvLsWZ9Z7aU">O futuro &lpar;presente&rpar; da IA é OpenSource! | TDC Community Talks com Alan Braz</a><br/>Apr 8, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nZE9VXuMlps"><img width="140px" src="https://i.ytimg.com/vi/nZE9VXuMlps/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nZE9VXuMlps">Menos Modelagem, Mais Engenho: A Era do Prompt | TDC Talks com Ricardo Pupo Larguesa</a><br/>Apr 1, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=aFlOWZM30k0"><img width="140px" src="https://i.ytimg.com/vi/aFlOWZM30k0/mqdefault.jpg"></a></td>
