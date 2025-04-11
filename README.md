@@ -32,11 +32,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <a href="https://developerslife.tech/en/2022/05/30/new-branch/"><img src="https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png" style="width:500px" alt="Web comic: New branch" /></a>
 
 ### Últimas publicações
-<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2025/02/28/14-anos-de-tirinhas/">14 anos de tirinhas!</a><br/>Fri Feb 28 2025 7:24 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2025/02/06/disparos-automaticos/">Disparos automáticos</a><br/>Thu Feb 06 2025 8:49 PM</li></ul>
-<ul><li>💥 <a href="https://developerslife.tech/pt/2025/01/24/entrega-rapida/">Entrega rápida</a><br/>Fri Jan 24 2025 2:28 PM</li></ul>
-<ul><li>💬 <a href="https://developerslife.tech/pt/2025/01/17/code-review/">Code Review</a><br/>Fri Jan 17 2025 2:44 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2025/01/14/muito-lento/">Muito lento</a><br/>Tue Jan 14 2025 8:19 PM</li></ul>
+<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2025/04/11/eu-amo-o-c/">Eu amo o C</a><br/>Fri Apr 11 2025 8:16 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2025/02/28/14-anos-de-tirinhas/">14 anos de tirinhas!</a><br/>Fri Feb 28 2025 7:24 PM</li></ul>
+<ul><li>💥 <a href="https://developerslife.tech/pt/2025/02/06/disparos-automaticos/">Disparos automáticos</a><br/>Thu Feb 06 2025 8:49 PM</li></ul>
+<ul><li>💬 <a href="https://developerslife.tech/pt/2025/01/24/entrega-rapida/">Entrega rápida</a><br/>Fri Jan 24 2025 2:28 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2025/01/17/code-review/">Code Review</a><br/>Fri Jan 17 2025 2:44 PM</li></ul>
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
