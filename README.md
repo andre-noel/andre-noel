@@ -41,7 +41,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jPWUKbjShxk"><img width="140px" src="https://i.ytimg.com/vi/jPWUKbjShxk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jPWUKbjShxk">Segurança, IA e dinheiro: Um bate-papo sobre o futuro | TDC Talks com Luckas &quot;Judocka&quot; Farias</a><br/>Apr 14, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=jPWUKbjShxk">Segurança, IA e dinheiro: Um bate-papo sobre o futuro | TDC Talks com Luckas &quot;Judocka&quot; Farias</a><br/>Apr 15, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=yvLsWZ9Z7aU"><img width="140px" src="https://i.ytimg.com/vi/yvLsWZ9Z7aU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yvLsWZ9Z7aU">O futuro &lpar;presente&rpar; da IA é OpenSource! | TDC Community Talks com Alan Braz</a><br/>Apr 8, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nZE9VXuMlps"><img width="140px" src="https://i.ytimg.com/vi/nZE9VXuMlps/mqdefault.jpg"></a></td>
