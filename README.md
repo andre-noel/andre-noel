@@ -41,7 +41,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Swy4MoW0vjQ"><img width="140px" src="https://i.ytimg.com/vi/Swy4MoW0vjQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Swy4MoW0vjQ">Roadmap da Carreira Internacional em 2025 | TDC Talks com Leandro Baptista</a><br/>Apr 23, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=Swy4MoW0vjQ">Roadmap da Carreira Internacional em 2025 | TDC Talks com Leandro Baptista</a><br/>Apr 24, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jPWUKbjShxk"><img width="140px" src="https://i.ytimg.com/vi/jPWUKbjShxk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jPWUKbjShxk">Segurança, IA e dinheiro: Um bate-papo sobre o futuro | TDC Talks com Luckas &quot;Judocka&quot; Farias</a><br/>Apr 15, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=yvLsWZ9Z7aU"><img width="140px" src="https://i.ytimg.com/vi/yvLsWZ9Z7aU/mqdefault.jpg"></a></td>
