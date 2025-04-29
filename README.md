@@ -41,7 +41,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=JOfSXS56ylQ"><img width="140px" src="https://i.ytimg.com/vi/JOfSXS56ylQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JOfSXS56ylQ">Empregabilidade Tech: Como Se Tornar Irresistível Para as Melhores Empresas</a><br/>Apr 28, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=JOfSXS56ylQ">Empregabilidade Tech: Como Se Tornar Irresistível Para as Melhores Empresas</a><br/>Apr 29, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Swy4MoW0vjQ"><img width="140px" src="https://i.ytimg.com/vi/Swy4MoW0vjQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Swy4MoW0vjQ">Roadmap da Carreira Internacional em 2025 | TDC Talks com Leandro Baptista</a><br/>Apr 24, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jPWUKbjShxk"><img width="140px" src="https://i.ytimg.com/vi/jPWUKbjShxk/mqdefault.jpg"></a></td>
