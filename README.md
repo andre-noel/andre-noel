@@ -32,11 +32,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <a href="https://developerslife.tech/en/2022/05/30/new-branch/"><img src="https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png" style="width:500px" alt="Web comic: New branch" /></a>
 
 ### Últimas publicações
-<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2025/04/24/pair-programming-com-chatgpt/">Pair Programming com ChatGPT</a><br/>Thu Apr 24 2025 2:09 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2025/04/17/tratamento-de-excecoes/">Tratamento de exceções</a><br/>Thu Apr 17 2025 8:35 PM</li></ul>
-<ul><li>💥 <a href="https://developerslife.tech/pt/2025/04/14/quero-cafe/">Quero café!</a><br/>Mon Apr 14 2025 1:36 PM</li></ul>
-<ul><li>💬 <a href="https://developerslife.tech/pt/2025/04/11/eu-amo-o-c/">Eu amo o C</a><br/>Fri Apr 11 2025 8:16 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2025/02/28/14-anos-de-tirinhas/">14 anos de tirinhas!</a><br/>Fri Feb 28 2025 7:24 PM</li></ul>
+<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2025/04/30/gson/">GSON</a><br/>Thu May 01 2025 12:19 AM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2025/04/24/pair-programming-com-chatgpt/">Pair Programming com ChatGPT</a><br/>Thu Apr 24 2025 2:09 PM</li></ul>
+<ul><li>💥 <a href="https://developerslife.tech/pt/2025/04/17/tratamento-de-excecoes/">Tratamento de exceções</a><br/>Thu Apr 17 2025 8:35 PM</li></ul>
+<ul><li>💬 <a href="https://developerslife.tech/pt/2025/04/14/quero-cafe/">Quero café!</a><br/>Mon Apr 14 2025 1:36 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2025/04/11/eu-amo-o-c/">Eu amo o C</a><br/>Fri Apr 11 2025 8:16 PM</li></ul>
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
