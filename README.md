@@ -41,7 +41,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=eg_2clHlM4s"><img width="140px" src="https://i.ytimg.com/vi/eg_2clHlM4s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=eg_2clHlM4s">Inglês para Tech: como desbloquear o speaking para conquistar vagas no exterior | com Dan Buck</a><br/>May 5, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=eg_2clHlM4s">Inglês para Tech: como desbloquear o speaking para conquistar vagas no exterior | com Dan Buck</a><br/>May 6, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=JOfSXS56ylQ"><img width="140px" src="https://i.ytimg.com/vi/JOfSXS56ylQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JOfSXS56ylQ">Empregabilidade Tech: Como Se Tornar Irresistível Para as Melhores Empresas</a><br/>Apr 29, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Swy4MoW0vjQ"><img width="140px" src="https://i.ytimg.com/vi/Swy4MoW0vjQ/mqdefault.jpg"></a></td>
