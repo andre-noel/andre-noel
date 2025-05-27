@@ -41,7 +41,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=AKoUFAVb2Yw"><img width="140px" src="https://i.ytimg.com/vi/AKoUFAVb2Yw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=AKoUFAVb2Yw">Esse Robô Está Mudando o Mercado: Descubra o Manus AI Antes Que Seja Tarde!</a><br/>May 26, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=AKoUFAVb2Yw">Esse Robô Está Mudando o Mercado: Descubra o Manus AI Antes Que Seja Tarde!</a><br/>May 27, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=gQinW8-xzoc"><img width="140px" src="https://i.ytimg.com/vi/gQinW8-xzoc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gQinW8-xzoc">Falhas Lázaro: Por que Certas Vulnerabilidades Sempre Voltam | TDC Talks com Caroline Assunção</a><br/>May 20, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=TKFcDmZndAY"><img width="140px" src="https://i.ytimg.com/vi/TKFcDmZndAY/mqdefault.jpg"></a></td>
