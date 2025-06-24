@@ -32,11 +32,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <a href="https://developerslife.tech/en/2022/05/30/new-branch/"><img src="https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png" style="width:500px" alt="Web comic: New branch" /></a>
 
 ### Últimas publicações
-<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2025/06/16/comunicacao-assincrona/">Comunicação Assíncrona</a><br/>Mon Jun 16 2025 5:53 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2025/06/12/profissional-versatil/">Profissional Versátil</a><br/>Thu Jun 12 2025 6:42 PM</li></ul>
-<ul><li>💥 <a href="https://developerslife.tech/pt/2025/05/13/data-invalida/">Data Inválida</a><br/>Tue May 13 2025 2:49 PM</li></ul>
-<ul><li>💬 <a href="https://developerslife.tech/pt/2025/04/30/gson/">GSON</a><br/>Thu May 01 2025 12:19 AM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2025/04/24/pair-programming-com-chatgpt/">Pair Programming com ChatGPT</a><br/>Thu Apr 24 2025 2:09 PM</li></ul>
+<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2025/06/24/load-balance/">Load Balance</a><br/>Tue Jun 24 2025 7:04 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2025/06/16/comunicacao-assincrona/">Comunicação Assíncrona</a><br/>Mon Jun 16 2025 5:53 PM</li></ul>
+<ul><li>💥 <a href="https://developerslife.tech/pt/2025/06/12/profissional-versatil/">Profissional Versátil</a><br/>Thu Jun 12 2025 6:42 PM</li></ul>
+<ul><li>💬 <a href="https://developerslife.tech/pt/2025/05/13/data-invalida/">Data Inválida</a><br/>Tue May 13 2025 2:49 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2025/04/30/gson/">GSON</a><br/>Thu May 01 2025 12:19 AM</li></ul>
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
