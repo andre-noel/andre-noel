@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=AKoUFAVb2Yw"><img width="140px" src="https://i.ytimg.com/vi/AKoUFAVb2Yw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZyrtsHj0qCw"><img width="140px" src="https://i.ytimg.com/vi/ZyrtsHj0qCw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZyrtsHj0qCw">Coisas que eu gostaria que tivessem me falado no início da carreira</a><br/>Jul 14, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=AKoUFAVb2Yw"><img width="140px" src="https://i.ytimg.com/vi/AKoUFAVb2Yw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AKoUFAVb2Yw">Esse Robô Está Mudando o Mercado: Descubra o Manus AI Antes Que Seja Tarde!</a><br/>May 27, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=gQinW8-xzoc"><img width="140px" src="https://i.ytimg.com/vi/gQinW8-xzoc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gQinW8-xzoc">Falhas Lázaro: Por que Certas Vulnerabilidades Sempre Voltam | TDC Talks com Caroline Assunção</a><br/>May 20, 2025</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=TKFcDmZndAY">LinkedIn Internacional: Como aumentar as abordagens de recrutadores gringos no seu perfil</a><br/>May 13, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=eg_2clHlM4s"><img width="140px" src="https://i.ytimg.com/vi/eg_2clHlM4s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eg_2clHlM4s">Inglês para Tech: como desbloquear o speaking para conquistar vagas no exterior | com Dan Buck</a><br/>May 6, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=JOfSXS56ylQ"><img width="140px" src="https://i.ytimg.com/vi/JOfSXS56ylQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JOfSXS56ylQ">Empregabilidade Tech: Como Se Tornar Irresistível Para as Melhores Empresas</a><br/>Apr 29, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
