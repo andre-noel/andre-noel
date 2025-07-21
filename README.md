@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/xoKJC6UH9dg"><img width="140px" src="https://i.ytimg.com/vi/xoKJC6UH9dg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sQ8JQu9tK5k"><img width="140px" src="https://i.ytimg.com/vi/sQ8JQu9tK5k/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=sQ8JQu9tK5k">Respondendo a perguntas que ninguém me perguntou!</a><br/>Jul 21, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/xoKJC6UH9dg"><img width="140px" src="https://i.ytimg.com/vi/xoKJC6UH9dg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/xoKJC6UH9dg">Programar é incrível, é criar coisas do quase zero!</a><br/>Jul 18, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/0qwXyZJGuEg"><img width="140px" src="https://i.ytimg.com/vi/0qwXyZJGuEg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/0qwXyZJGuEg">Coisas Dão Errado - Como Superar e Seguir em Frente</a><br/>Jul 17, 2025</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/shorts/AFn7E11U_ps">Você tem coragem de apresentar o que sabe para os outros?</a><br/>Jul 16, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZyrtsHj0qCw"><img width="140px" src="https://i.ytimg.com/vi/ZyrtsHj0qCw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZyrtsHj0qCw">Coisas que eu gostaria que tivessem me falado no início da carreira</a><br/>Jul 14, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=AKoUFAVb2Yw"><img width="140px" src="https://i.ytimg.com/vi/AKoUFAVb2Yw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=AKoUFAVb2Yw">Esse Robô Está Mudando o Mercado: Descubra o Manus AI Antes Que Seja Tarde!</a><br/>May 27, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
