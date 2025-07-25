@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/EG2xeaSk3PM"><img width="140px" src="https://i.ytimg.com/vi/EG2xeaSk3PM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/EHuDjKwYw1E"><img width="140px" src="https://i.ytimg.com/vi/EHuDjKwYw1E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/EHuDjKwYw1E">Enfrente a Vaga - Dicas para Entrevistas e Testes!</a><br/>Jul 25, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/EG2xeaSk3PM"><img width="140px" src="https://i.ytimg.com/vi/EG2xeaSk3PM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/EG2xeaSk3PM">Cursos Inúteis, Minha Reflexão e Lições de Steve Jobs</a><br/>Jul 24, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/Lc2Ri2mjYzs"><img width="140px" src="https://i.ytimg.com/vi/Lc2Ri2mjYzs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/Lc2Ri2mjYzs">Conteúdo Impulsiona Carreiras - Dicas de um Profissional</a><br/>Jul 23, 2025</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/shorts/XbOSwlJ_A5s">Como eu descobri que queria trabalhar com tecnologia</a><br/>Jul 22, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/EUaIkJ7Gk1g"><img width="140px" src="https://i.ytimg.com/vi/EUaIkJ7Gk1g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/EUaIkJ7Gk1g">Quem nunca entregou um código ruim em produção?</a><br/>Jul 21, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=sQ8JQu9tK5k"><img width="140px" src="https://i.ytimg.com/vi/sQ8JQu9tK5k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sQ8JQu9tK5k">Respondendo a perguntas que ninguém me perguntou!</a><br/>Jul 21, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
