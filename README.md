@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/Ci2p7X1AurA"><img width="140px" src="https://i.ytimg.com/vi/Ci2p7X1AurA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/MaOhOfa0XNQ"><img width="140px" src="https://i.ytimg.com/vi/MaOhOfa0XNQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/MaOhOfa0XNQ">Como desestressar depois de um dia de programação</a><br/>Aug 1, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/Ci2p7X1AurA"><img width="140px" src="https://i.ytimg.com/vi/Ci2p7X1AurA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/Ci2p7X1AurA">Dev Goods - Colorindo as nossas tragédias diárias na programação</a><br/>Jul 31, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/Lw1ljzwseXM"><img width="140px" src="https://i.ytimg.com/vi/Lw1ljzwseXM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/Lw1ljzwseXM">Tem tirinha do meu filho no meu livro!</a><br/>Jul 30, 2025</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=WrQxcMTcyCc">DEV GOODS! - O melhor aliado na saúde mental de DEVS!</a><br/>Jul 29, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/EHuDjKwYw1E"><img width="140px" src="https://i.ytimg.com/vi/EHuDjKwYw1E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/EHuDjKwYw1E">Enfrente a Vaga - Dicas para Entrevistas e Testes!</a><br/>Jul 25, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/EG2xeaSk3PM"><img width="140px" src="https://i.ytimg.com/vi/EG2xeaSk3PM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/EG2xeaSk3PM">Cursos Inúteis, Minha Reflexão e Lições de Steve Jobs</a><br/>Jul 24, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
