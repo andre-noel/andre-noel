@@ -32,11 +32,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <a href="https://developerslife.tech/en/2022/05/30/new-branch/"><img src="https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png" style="width:500px" alt="Web comic: New branch" /></a>
 
 ### Últimas publicações
-<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2025/08/12/a-ia-apagou-meu-codigo/">A IA apagou meu código</a><br/>Tue Aug 12 2025 7:31 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2025/07/29/video-dev-goods/">[Vídeo] DEV GOODS! - O melhor aliado na saúde mental de DEVS!</a><br/>Tue Jul 29 2025 4:45 PM</li></ul>
-<ul><li>💥 <a href="https://developerslife.tech/pt/2025/07/25/automacao-manual/">Automação Manual</a><br/>Fri Jul 25 2025 1:33 PM</li></ul>
-<ul><li>💬 <a href="https://developerslife.tech/pt/2025/07/21/video-respondendo-a-perguntas-que-ninguem-me-perguntou/">[Vídeo] Respondendo a perguntas que ninguém me perguntou!</a><br/>Mon Jul 21 2025 12:28 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2025/07/15/o-dom/">O dom</a><br/>Tue Jul 15 2025 10:00 PM</li></ul>
+<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2025/08/27/observabilidade/">Observabilidade</a><br/>Wed Aug 27 2025 11:12 AM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2025/08/12/a-ia-apagou-meu-codigo/">A IA apagou meu código</a><br/>Tue Aug 12 2025 7:31 PM</li></ul>
+<ul><li>💥 <a href="https://developerslife.tech/pt/2025/07/29/video-dev-goods/">[Vídeo] DEV GOODS! - O melhor aliado na saúde mental de DEVS!</a><br/>Tue Jul 29 2025 4:45 PM</li></ul>
+<ul><li>💬 <a href="https://developerslife.tech/pt/2025/07/25/automacao-manual/">Automação Manual</a><br/>Fri Jul 25 2025 1:33 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2025/07/21/video-respondendo-a-perguntas-que-ninguem-me-perguntou/">[Vídeo] Respondendo a perguntas que ninguém me perguntou!</a><br/>Mon Jul 21 2025 12:28 PM</li></ul>
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
