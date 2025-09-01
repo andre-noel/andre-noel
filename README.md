@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kdCui3JRhOg"><img width="140px" src="https://i.ytimg.com/vi/kdCui3JRhOg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/YWtL9zrWm2w"><img width="140px" src="https://i.ytimg.com/vi/YWtL9zrWm2w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/YWtL9zrWm2w">O Algoritmo do Juízo Final! - The Doomsday Algorithm</a><br/>Sep 1, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=kdCui3JRhOg"><img width="140px" src="https://i.ytimg.com/vi/kdCui3JRhOg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kdCui3JRhOg">O Algoritmo do Juízo Final! - The Doomsday Algorithm</a><br/>Aug 23, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/V7aeN9rFB80"><img width="140px" src="https://i.ytimg.com/vi/V7aeN9rFB80/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/V7aeN9rFB80">Presentinhos de Dia dos Pais!</a><br/>Aug 10, 2025</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/shorts/QaQqmSIvUZc">Você trata as IAs melhor do que trata DEVs!</a><br/>Aug 6, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/J9pkNR8BL1E"><img width="140px" src="https://i.ytimg.com/vi/J9pkNR8BL1E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/J9pkNR8BL1E">Minha habilidade não é manual</a><br/>Aug 3, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/wAY2edXreEY"><img width="140px" src="https://i.ytimg.com/vi/wAY2edXreEY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/wAY2edXreEY">Livro de Colorir da Vida de Programador</a><br/>Aug 2, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
