@@ -41,7 +41,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Zc5-g3Qnz_I"><img width="140px" src="https://i.ytimg.com/vi/Zc5-g3Qnz_I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Zc5-g3Qnz_I">Cibersegurança na Era da IA: Machine Learning como Ameaça, Proteção, e Alvo</a><br/>Nov 10, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=Zc5-g3Qnz_I">Cibersegurança na Era da IA: Machine Learning como Ameaça, Proteção, e Alvo</a><br/>Nov 11, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vqgwrbeVb_k"><img width="140px" src="https://i.ytimg.com/vi/vqgwrbeVb_k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vqgwrbeVb_k">Um bom suporte técnico faz toda a diferença!</a><br/>Oct 3, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ieR_D8jrdFQ"><img width="140px" src="https://i.ytimg.com/vi/ieR_D8jrdFQ/mqdefault.jpg"></a></td>
