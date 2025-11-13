@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Zc5-g3Qnz_I"><img width="140px" src="https://i.ytimg.com/vi/Zc5-g3Qnz_I/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=S1pWuEYoJt4"><img width="140px" src="https://i.ytimg.com/vi/S1pWuEYoJt4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=S1pWuEYoJt4">Como ganhar o DOBRO como Dev Freela &lpar;com pouco esforço!&rpar;</a><br/>Nov 13, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Zc5-g3Qnz_I"><img width="140px" src="https://i.ytimg.com/vi/Zc5-g3Qnz_I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Zc5-g3Qnz_I">Cibersegurança na Era da IA: Machine Learning como Ameaça, Proteção, e Alvo</a><br/>Nov 11, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vqgwrbeVb_k"><img width="140px" src="https://i.ytimg.com/vi/vqgwrbeVb_k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vqgwrbeVb_k">Um bom suporte técnico faz toda a diferença!</a><br/>Oct 3, 2025</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=ieR_D8jrdFQ">Criei um bot pra Telegram com N8N na VPS!</a><br/>Sep 29, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/YWtL9zrWm2w"><img width="140px" src="https://i.ytimg.com/vi/YWtL9zrWm2w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/YWtL9zrWm2w">O Algoritmo do Juízo Final! - The Doomsday Algorithm</a><br/>Sep 1, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=kdCui3JRhOg"><img width="140px" src="https://i.ytimg.com/vi/kdCui3JRhOg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kdCui3JRhOg">O Algoritmo do Juízo Final! - The Doomsday Algorithm</a><br/>Aug 23, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
