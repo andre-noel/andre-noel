@@ -41,7 +41,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=K7z8Pg3pBWM"><img width="140px" src="https://i.ytimg.com/vi/K7z8Pg3pBWM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=K7z8Pg3pBWM">Microsservicos - Beneficios e Dores</a><br/>Nov 17, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=K7z8Pg3pBWM">Microsservicos - Beneficios e Dores</a><br/>Nov 18, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=S1pWuEYoJt4"><img width="140px" src="https://i.ytimg.com/vi/S1pWuEYoJt4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=S1pWuEYoJt4">Como ganhar o DOBRO como Dev Freela &lpar;com pouco esforço!&rpar;</a><br/>Nov 13, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Zc5-g3Qnz_I"><img width="140px" src="https://i.ytimg.com/vi/Zc5-g3Qnz_I/mqdefault.jpg"></a></td>
