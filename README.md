@@ -41,7 +41,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=BTZVvaEVYVw"><img width="140px" src="https://i.ytimg.com/vi/BTZVvaEVYVw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BTZVvaEVYVw">Acessibilidade Digital: Como? Princípios, Práticas e I.A.</a><br/>Dec 8, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=BTZVvaEVYVw">Acessibilidade Digital: Como? Princípios, Práticas e I.A.</a><br/>Dec 9, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0wUS-QzCG3A"><img width="140px" src="https://i.ytimg.com/vi/0wUS-QzCG3A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0wUS-QzCG3A">Otimização do LinkedIn: tudo que você precisa para destacar o seu perfil pro mercado internacional</a><br/>Dec 5, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=K7z8Pg3pBWM"><img width="140px" src="https://i.ytimg.com/vi/K7z8Pg3pBWM/mqdefault.jpg"></a></td>
