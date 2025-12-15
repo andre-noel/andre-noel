@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=BTZVvaEVYVw"><img width="140px" src="https://i.ytimg.com/vi/BTZVvaEVYVw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Qvm-vrhYmLU"><img width="140px" src="https://i.ytimg.com/vi/Qvm-vrhYmLU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Qvm-vrhYmLU">Profissionalismo à primeira vista com E-MAIL PROFISSIONAL</a><br/>Dec 15, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BTZVvaEVYVw"><img width="140px" src="https://i.ytimg.com/vi/BTZVvaEVYVw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BTZVvaEVYVw">Acessibilidade Digital: Como? Princípios, Práticas e I.A.</a><br/>Dec 9, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0wUS-QzCG3A"><img width="140px" src="https://i.ytimg.com/vi/0wUS-QzCG3A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0wUS-QzCG3A">Otimização do LinkedIn: tudo que você precisa para destacar o seu perfil pro mercado internacional</a><br/>Dec 5, 2025</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=K7z8Pg3pBWM">Microsservicos - Beneficios e Dores</a><br/>Nov 18, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=S1pWuEYoJt4"><img width="140px" src="https://i.ytimg.com/vi/S1pWuEYoJt4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=S1pWuEYoJt4">Como ganhar o DOBRO como Dev Freela &lpar;com pouco esforço!&rpar;</a><br/>Nov 13, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Zc5-g3Qnz_I"><img width="140px" src="https://i.ytimg.com/vi/Zc5-g3Qnz_I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Zc5-g3Qnz_I">Cibersegurança na Era da IA: Machine Learning como Ameaça, Proteção, e Alvo</a><br/>Nov 11, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
