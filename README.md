@@ -41,7 +41,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xCKPuuVecQ4"><img width="140px" src="https://i.ytimg.com/vi/xCKPuuVecQ4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xCKPuuVecQ4">AI Gateway: O Novo Cérebro das Integrações Inteligentes</a><br/>Dec 17, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=xCKPuuVecQ4">AI Gateway: O Novo Cérebro das Integrações Inteligentes</a><br/>Dec 18, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=PJV2U8G2e_s"><img width="140px" src="https://i.ytimg.com/vi/PJV2U8G2e_s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PJV2U8G2e_s">Aplicações de GenAI no Desenvolvimento: Como a GenAI Está Transformando a Engenharia de Software</a><br/>Dec 16, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Qvm-vrhYmLU"><img width="140px" src="https://i.ytimg.com/vi/Qvm-vrhYmLU/mqdefault.jpg"></a></td>
