@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Z2CjPSauk_w"><img width="140px" src="https://i.ytimg.com/vi/Z2CjPSauk_w/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=SGFEMvYXUWQ"><img width="140px" src="https://i.ytimg.com/vi/SGFEMvYXUWQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SGFEMvYXUWQ">Lançamento TDC 2026</a><br/>Jan 12, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Z2CjPSauk_w"><img width="140px" src="https://i.ytimg.com/vi/Z2CjPSauk_w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Z2CjPSauk_w">#JornadaÁgil EP1782 Eventos de 2026 SEX 26.12.25 07h31</a><br/>Dec 26, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xCKPuuVecQ4"><img width="140px" src="https://i.ytimg.com/vi/xCKPuuVecQ4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xCKPuuVecQ4">AI Gateway: O Novo Cérebro das Integrações Inteligentes</a><br/>Dec 18, 2025</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=PJV2U8G2e_s">Aplicações de GenAI no Desenvolvimento: Como a GenAI Está Transformando a Engenharia de Software</a><br/>Dec 16, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Qvm-vrhYmLU"><img width="140px" src="https://i.ytimg.com/vi/Qvm-vrhYmLU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Qvm-vrhYmLU">Profissionalismo à primeira vista com E-MAIL PROFISSIONAL</a><br/>Dec 15, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BTZVvaEVYVw"><img width="140px" src="https://i.ytimg.com/vi/BTZVvaEVYVw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BTZVvaEVYVw">Acessibilidade Digital: Como? Princípios, Práticas e I.A.</a><br/>Dec 9, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
