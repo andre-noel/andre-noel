@@ -41,7 +41,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tyO9AwTop8M"><img width="140px" src="https://i.ytimg.com/vi/tyO9AwTop8M/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tyO9AwTop8M">Como transformar ideias em palestras aprovadas</a><br/>Jan 19, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=tyO9AwTop8M">Como transformar ideias em palestras aprovadas</a><br/>Jan 20, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wwXiZ6BfiTc"><img width="140px" src="https://i.ytimg.com/vi/wwXiZ6BfiTc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wwXiZ6BfiTc">Tendências de programação para 2026!</a><br/>Jan 14, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=SGFEMvYXUWQ"><img width="140px" src="https://i.ytimg.com/vi/SGFEMvYXUWQ/mqdefault.jpg"></a></td>
