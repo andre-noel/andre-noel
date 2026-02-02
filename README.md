@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tyO9AwTop8M"><img width="140px" src="https://i.ytimg.com/vi/tyO9AwTop8M/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Qvzknfc7BJA"><img width="140px" src="https://i.ytimg.com/vi/Qvzknfc7BJA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Qvzknfc7BJA">IA Local no PC: a solução brasileira que roda em processadores Intel</a><br/>Feb 2, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=tyO9AwTop8M"><img width="140px" src="https://i.ytimg.com/vi/tyO9AwTop8M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tyO9AwTop8M">Como transformar ideias em palestras aprovadas</a><br/>Jan 20, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wwXiZ6BfiTc"><img width="140px" src="https://i.ytimg.com/vi/wwXiZ6BfiTc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wwXiZ6BfiTc">Tendências de programação para 2026!</a><br/>Jan 14, 2026</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=SGFEMvYXUWQ">Lançamento TDC 2026</a><br/>Jan 13, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Z2CjPSauk_w"><img width="140px" src="https://i.ytimg.com/vi/Z2CjPSauk_w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Z2CjPSauk_w">#JornadaÁgil EP1782 Eventos de 2026 SEX 26.12.25 07h31</a><br/>Dec 26, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=xCKPuuVecQ4"><img width="140px" src="https://i.ytimg.com/vi/xCKPuuVecQ4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xCKPuuVecQ4">AI Gateway: O Novo Cérebro das Integrações Inteligentes</a><br/>Dec 18, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
