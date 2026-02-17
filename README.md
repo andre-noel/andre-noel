@@ -32,11 +32,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <a href="https://developerslife.tech/en/2022/05/30/new-branch/"><img src="https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png" style="width:500px" alt="Web comic: New branch" /></a>
 
 ### Últimas publicações
-<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2026/02/16/cloudflare-down/">Cloudflare down</a><br/>Mon Feb 16 2026 1:35 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2026/01/02/fone-de-ouvido/">Fone de ouvido</a><br/>Sat Jan 03 2026 2:46 AM</li></ul>
-<ul><li>💥 <a href="https://developerslife.tech/pt/2026/01/01/site-bombando/">Site bombando</a><br/>Thu Jan 01 2026 6:52 PM</li></ul>
-<ul><li>💬 <a href="https://developerslife.tech/pt/2025/10/29/bomba-atomica/">Bomba atômica</a><br/>Wed Oct 29 2025 10:33 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2025/10/17/frango-recursivo/">Frango Recursivo</a><br/>Fri Oct 17 2025 5:56 PM</li></ul>
+<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2026/02/17/uma-dica/">Uma dica</a><br/>Tue Feb 17 2026 3:12 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2026/02/16/cloudflare-down/">Cloudflare down</a><br/>Mon Feb 16 2026 1:35 PM</li></ul>
+<ul><li>💥 <a href="https://developerslife.tech/pt/2026/01/02/fone-de-ouvido/">Fone de ouvido</a><br/>Sat Jan 03 2026 2:46 AM</li></ul>
+<ul><li>💬 <a href="https://developerslife.tech/pt/2026/01/01/site-bombando/">Site bombando</a><br/>Thu Jan 01 2026 6:52 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2025/10/29/bomba-atomica/">Bomba atômica</a><br/>Wed Oct 29 2025 10:33 PM</li></ul>
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
