@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fOWZLFrBuNk"><img width="140px" src="https://i.ytimg.com/vi/fOWZLFrBuNk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5mxnqC4W69U"><img width="140px" src="https://i.ytimg.com/vi/5mxnqC4W69U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5mxnqC4W69U">3 coisas que APRENDI depois de apanhar muito em produção!</a><br/>Mar 26, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=fOWZLFrBuNk"><img width="140px" src="https://i.ytimg.com/vi/fOWZLFrBuNk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fOWZLFrBuNk">O erro que está encarecendo seu código em 2026 &lpar;Como sair do aluguel de automação&rpar;</a><br/>Feb 24, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/yN0V4GGcgRE"><img width="140px" src="https://i.ytimg.com/vi/yN0V4GGcgRE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/yN0V4GGcgRE">Chegando em Curitiba com o Developer&#39;s Life Weekend</a><br/>Feb 21, 2026</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/watch?v=Qvzknfc7BJA">IA Local no PC: a solução brasileira que roda em processadores Intel</a><br/>Feb 3, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=tyO9AwTop8M"><img width="140px" src="https://i.ytimg.com/vi/tyO9AwTop8M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tyO9AwTop8M">Como transformar ideias em palestras aprovadas</a><br/>Jan 20, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=wwXiZ6BfiTc"><img width="140px" src="https://i.ytimg.com/vi/wwXiZ6BfiTc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wwXiZ6BfiTc">Tendências de programação para 2026!</a><br/>Jan 14, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
