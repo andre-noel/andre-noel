@@ -41,7 +41,7 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 
 ### Últimos vídeos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=97G9e32gT08"><img width="140px" src="https://i.ytimg.com/vi/97G9e32gT08/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=97G9e32gT08">Sobrevivendo à vida de DEV | No canal PodHeitor</a><br/>Apr 7, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=97G9e32gT08">Sobrevivendo à vida de DEV | No canal PodHeitor</a><br/>Apr 8, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5mxnqC4W69U"><img width="140px" src="https://i.ytimg.com/vi/5mxnqC4W69U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5mxnqC4W69U">3 coisas que APRENDI depois de apanhar muito em produção!</a><br/>Mar 26, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=fOWZLFrBuNk"><img width="140px" src="https://i.ytimg.com/vi/fOWZLFrBuNk/mqdefault.jpg"></a></td>
