@@ -40,7 +40,9 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/MSezm89J3bQ"><img width="140px" src="https://i.ytimg.com/vi/MSezm89J3bQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Xc28XSIz8nw"><img width="140px" src="https://i.ytimg.com/vi/Xc28XSIz8nw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Xc28XSIz8nw">3 coisas que você precisa saber antes de escolher sua Cloud</a><br/>Sep 19, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/MSezm89J3bQ"><img width="140px" src="https://i.ytimg.com/vi/MSezm89J3bQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/MSezm89J3bQ">The Developer&#39;s Life Weekend chegando em Londrina de 10 a 12 de setembro! Inscreva-se!</a><br/>Sep 1, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/f9puSABHrm8"><img width="140px" src="https://i.ytimg.com/vi/f9puSABHrm8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/f9puSABHrm8">Developer&#39;s Life Weekend em Londrina, com Rodrigo Pokemaobr e grandes feras!</a><br/>Aug 29, 2026</td></tr></table>
@@ -48,8 +50,6 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <td><a href="https://www.youtube.com/shorts/K8uZX2l6FQc">Últimos dias pra se inscrever no Developer&#39;s Life Weekend!</a><br/>May 10, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=97G9e32gT08"><img width="140px" src="https://i.ytimg.com/vi/97G9e32gT08/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=97G9e32gT08">Sobrevivendo à vida de DEV | No canal PodHeitor</a><br/>Apr 8, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=5mxnqC4W69U"><img width="140px" src="https://i.ytimg.com/vi/5mxnqC4W69U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5mxnqC4W69U">3 coisas que APRENDI depois de apanhar muito em produção!</a><br/>Mar 26, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Últimos episódios no podcast
