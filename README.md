@@ -32,11 +32,11 @@ Profundo conhecedor de métodos de desenvolvimento alternativos (gambiarras) e t
 <a href="https://developerslife.tech/en/2022/05/30/new-branch/"><img src="https://developerslife.tech/en/uploads/2022/05/tirinhaEN-234.png" style="width:500px" alt="Web comic: New branch" /></a>
 
 ### Últimas publicações
-<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2026/05/20/follow-up/">Follow Up</a><br/>Wed May 20 2026 4:36 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2026/05/11/reducao-de-custos/">Redução de custos</a><br/>Mon May 11 2026 1:51 PM</li></ul>
-<ul><li>💥 <a href="https://developerslife.tech/pt/2026/02/28/15-aninhos/">15 aninhos!</a><br/>Sat Feb 28 2026 2:45 PM</li></ul>
-<ul><li>💬 <a href="https://developerslife.tech/pt/2026/02/27/vibe-coder/">Vibe coder</a><br/>Fri Feb 27 2026 2:47 PM</li></ul>
-<ul><li>🤣 <a href="https://developerslife.tech/pt/2026/02/17/uma-dica/">Uma dica</a><br/>Tue Feb 17 2026 3:12 PM</li></ul>
+<!-- BLOG-POST-LIST:START --><ul><li>🤯 <a href="https://developerslife.tech/pt/2026/10/14/agentes/">Agentes</a><br/>Wed Oct 14 2026 5:37 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2026/05/20/follow-up/">Follow Up</a><br/>Wed May 20 2026 4:36 PM</li></ul>
+<ul><li>💥 <a href="https://developerslife.tech/pt/2026/05/11/reducao-de-custos/">Redução de custos</a><br/>Mon May 11 2026 1:51 PM</li></ul>
+<ul><li>💬 <a href="https://developerslife.tech/pt/2026/02/28/15-aninhos/">15 aninhos!</a><br/>Sat Feb 28 2026 2:45 PM</li></ul>
+<ul><li>🤣 <a href="https://developerslife.tech/pt/2026/02/27/vibe-coder/">Vibe coder</a><br/>Fri Feb 27 2026 2:47 PM</li></ul>
 <!-- BLOG-POST-LIST:END -->
 
 ### Últimos vídeos
